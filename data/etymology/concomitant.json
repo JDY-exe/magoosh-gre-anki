@@ -1,0 +1,18 @@
+{
+  "word": "concomitant",
+  "source": "https://en.wiktionary.org/wiki/concomitant",
+  "etymologies": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "First attested 1607; from Middle French concomitant, from Latin concomitāns, the present participle of concomitor (“to accompany”), from con- (“together”) + comitor (“to accompany”), from comes (“companion”)."
+      ],
+      "senses": [
+        "Accompanying; conjoining; attending; concurrent. [from early 17th c.]",
+        "(grammar) Of or relating to the grammatical aspect which expresses that a secondary action is occurring simultaneously to the primary action of the statement.",
+        "Something happening or existing at the same time.",
+        "(algebra) An invariant homogeneous polynomial in the coefficients of a form, a covariant variable, and a contravariant variable."
+      ]
+    }
+  ]
+}

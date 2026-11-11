@@ -1,0 +1,26 @@
+{
+  "word": "shard",
+  "source": "https://en.wiktionary.org/wiki/shard",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "From Middle English shard, scherd, scheard, schord, from Old English sċeard (“a broken piece; shard”), from Proto-West Germanic *skard, from Proto-Germanic *skardą (“notch; nick”), from *skardaz (“damaged; nicked; scarred”), from Proto-Indo-European *(s)ker- (“to cut”). Akin to Scots schaird (“shard”), French écharde (“splinter”), Dutch schaarde (“tear; notch; fragment”), German Scharte (“notch”), Old Norse skarð (“notch, hack”) ( > Danish skår).",
+        "The database sense is perhaps derived from the online gaming sense or from SHARD (System for Highly Available Replicated Data), name of a 1980s database product."
+      ],
+      "senses": [
+        "A piece of broken glass or pottery, especially one found in an archaeological dig.",
+        "(by extension) A piece of material, especially rock and similar materials, reminding of a broken piece of glass or pottery.",
+        "(intransitive) To fall apart into shards, usually as the result of impact or explosion.",
+        "(transitive) To break (something) into shards."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [],
+      "senses": [
+        "The plant chard."
+      ]
+    }
+  ]
+}

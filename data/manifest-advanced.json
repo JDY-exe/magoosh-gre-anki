@@ -1,0 +1,51 @@
+{
+  "source": "https://gre.magoosh.com/flashcards/vocabulary/decks",
+  "extractedAt": "2026-11-11T05:23:10.970Z",
+  "decks": [
+    {
+      "name": "Advanced I",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-i"
+    },
+    {
+      "name": "Advanced II",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-ii"
+    },
+    {
+      "name": "Advanced III",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-3"
+    },
+    {
+      "name": "Advanced IV",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-4"
+    },
+    {
+      "name": "Advanced V",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-5"
+    },
+    {
+      "name": "Advanced VI",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-6"
+    },
+    {
+      "name": "Advanced VII",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-7"
+    },
+    {
+      "name": "Advanced VIII",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-viii"
+    },
+    {
+      "name": "Advanced IX",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-ix"
+    }
+  ]
+}

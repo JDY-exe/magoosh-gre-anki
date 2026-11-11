@@ -1,0 +1,625 @@
+{
+  "name": "Advanced II",
+  "expected": 51,
+  "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/advanced-words-ii",
+  "cards": [
+    {
+      "word": "gerrymander",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to manipulate voting districts in order to favor a particular political party</p>",
+          "definition": "verb: to manipulate voting districts in order to favor a particular political party",
+          "exampleHtml": "<p>Years ago, savvy politicians had <strong>gerrymandered</strong> the city center to ensure their re-election.</p>",
+          "example": "Years ago, savvy politicians had gerrymandered the city center to ensure their re-election."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/gerrymander"
+    },
+    {
+      "word": "arch",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be deliberately teasing</p>",
+          "definition": "adjective: to be deliberately teasing",
+          "exampleHtml": "<p>The baroness was <strong>arch</strong>, making playful asides to the townspeople; yet because they couldn't pick up on her dry humor, they thought her supercilious.</p>",
+          "example": "The baroness was arch, making playful asides to the townspeople; yet because they couldn't pick up on her dry humor, they thought her supercilious."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/arch"
+    },
+    {
+      "word": "blinkered",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to have a limited outlook or understanding</p>",
+          "definition": "adjective: to have a limited outlook or understanding",
+          "exampleHtml": "<p>In gambling, the <strong>blinkered</strong> addict is easily influenced by past successes and/or past failures, forgetting that the outcome of any one game is independent of the games that preceded it.</p>",
+          "example": "In gambling, the blinkered addict is easily influenced by past successes and/or past failures, forgetting that the outcome of any one game is independent of the games that preceded it."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/blinkered"
+    },
+    {
+      "word": "parvenu",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who has suddenly become wealthy, but not socially accepted as part of a higher class</p>",
+          "definition": "noun: a person who has suddenly become wealthy, but not socially accepted as part of a higher class",
+          "exampleHtml": "<p>The theater was full of <strong>parvenus</strong> who each thought that they were surrounded by true aristocrats.</p>",
+          "example": "The theater was full of parvenus who each thought that they were surrounded by true aristocrats."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/parvenu"
+    },
+    {
+      "word": "execrate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to curse and hiss at</p>",
+          "definition": "verb: to curse and hiss at",
+          "exampleHtml": "<p>Though the new sitcom did decently in the ratings, the critic execrated the show, saying that it was nothing more than a terrible pastiche of tired clichés and canned laughter.</p>",
+          "example": "Though the new sitcom did decently in the ratings, the critic execrated the show, saying that it was nothing more than a terrible pastiche of tired clichés and canned laughter."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/execrate"
+    },
+    {
+      "word": "martinet",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a strict disciplinarian</p>",
+          "definition": "noun: a strict disciplinarian",
+          "exampleHtml": "<p>The job seemed perfect to Rebecca, until she found out that her boss was a total <strong>martinet</strong>; after each project the boss would come by to scrutinize—and inevitably criticize—every little detail of the work \nRebecca had done.</p>",
+          "example": "The job seemed perfect to Rebecca, until she found out that her boss was a total martinet; after each project the boss would come by to scrutinize—and inevitably criticize—every little detail of the work \nRebecca had done."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/martinet"
+    },
+    {
+      "word": "peremptory",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> bossy and domineering</p>",
+          "definition": "adjective: bossy and domineering",
+          "exampleHtml": "<p>My sister used to <strong>peremptorily</strong> tell me to do the dishes, a chore I would either do perfunctorily or avoid doing altogether.</p>",
+          "example": "My sister used to peremptorily tell me to do the dishes, a chore I would either do perfunctorily or avoid doing altogether."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/peremptory"
+    },
+    {
+      "word": "picayune",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> trifling or petty (a person)</p>",
+          "definition": "adjective: trifling or petty (a person)",
+          "exampleHtml": "<p>English teachers are notorious for being <strong>picayune</strong>; however, the English language is so nuanced and sophisticated that often such teachers are not being contrary but are only adhering to the rules. </p>",
+          "example": "English teachers are notorious for being picayune; however, the English language is so nuanced and sophisticated that often such teachers are not being contrary but are only adhering to the rules."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/picayune"
+    },
+    {
+      "word": "palimpsest",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> something that has been changed numerous times but on which traces of former iterations can still be seen</p>",
+          "definition": "noun: something that has been changed numerous times but on which traces of former iterations can still be seen",
+          "exampleHtml": "<p>The downtown was a <strong>palimpsest</strong> of the city’s checkered past: a new Starbucks had opened up next to\nan abandoned, shuttered building, and a freshly asphalted road was inches away from a pothole large enough to swallow a small dog.</p>",
+          "example": "The downtown was a palimpsest of the city’s checkered past: a new Starbucks had opened up next to\nan abandoned, shuttered building, and a freshly asphalted road was inches away from a pothole large enough to swallow a small dog."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/palimpsest"
+    },
+    {
+      "word": "apotheosis",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> exaltation to divine status; the highest point of development </p>",
+          "definition": "noun: exaltation to divine status; the highest point of development",
+          "exampleHtml": "<p>As difficult as it is to imagine, the <strong>apotheosis</strong> of Mark Zuckerberg’s career, many believe, is yet to come.</p>",
+          "example": "As difficult as it is to imagine, the apotheosis of Mark Zuckerberg’s career, many believe, is yet to come."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/apotheosis"
+    },
+    {
+      "word": "imbroglio",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a confusing and potentially embarrassing situation</p>",
+          "definition": "noun: a confusing and potentially embarrassing situation",
+          "exampleHtml": "<p>The chef cook-off featured one gourmand who had the unfortunate distinction of mixing the wrong broths, creating an <strong>imbroglio</strong> that diners would not soon forget.</p>",
+          "example": "The chef cook-off featured one gourmand who had the unfortunate distinction of mixing the wrong broths, creating an imbroglio that diners would not soon forget."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/imbroglio"
+    },
+    {
+      "word": "pyrrhic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> describing a victory that comes at such a great cost that the victory is not worthwhile</p>",
+          "definition": "adjective: describing a victory that comes at such a great cost that the victory is not worthwhile",
+          "exampleHtml": "<p>George W. Bush’s win in the 2000 election was in many ways a <strong>pyrrhic</strong> victory: the circumstances of his win alienated half of the U.S. population. </p>",
+          "example": "George W. Bush’s win in the 2000 election was in many ways a pyrrhic victory: the circumstances of his win alienated half of the U.S. population."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/pyrrhic"
+    },
+    {
+      "word": "invective",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> abusive or denunciatory language</p>",
+          "definition": "noun: abusive or denunciatory language",
+          "exampleHtml": "<p>The Internet has unleashed the <strong>invectives</strong> in many of us; many people post stinging criticism on the comments section underneath newspaper articles or YouTube videos.</p>",
+          "example": "The Internet has unleashed the invectives in many of us; many people post stinging criticism on the comments section underneath newspaper articles or YouTube videos."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/invective"
+    },
+    {
+      "word": "sententious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be moralizing, usually in a pompous sense</p>",
+          "definition": "adjective: to be moralizing, usually in a pompous sense",
+          "exampleHtml": "<p>The old man, casting his nose up in the air at the group of adolescents, intoned <strong>sententiously</strong>, “Youth is wasted on the young.”</p>",
+          "example": "The old man, casting his nose up in the air at the group of adolescents, intoned sententiously, “Youth is wasted on the young.”"
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/sententious"
+    },
+    {
+      "word": "sybarite",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who indulges in luxury</p>",
+          "definition": "noun: a person who indulges in luxury",
+          "exampleHtml": "<p>Despite the fact that he’d maxed out fifteen credit cards, Max was still a <strong>sybarite</strong> at heart: when the police found him, he was at a $1,000 an hour spa in Manhattan, getting a facial treatment.</p>",
+          "example": "Despite the fact that he’d maxed out fifteen credit cards, Max was still a sybarite at heart: when the police found him, he was at a $1,000 an hour spa in Manhattan, getting a facial treatment."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/sybarite"
+    },
+    {
+      "word": "protean",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> readily taking on different roles; versatile</p>",
+          "definition": "adjective: readily taking on different roles; versatile",
+          "exampleHtml": "<p>Peter Sellers was truly a <strong>protean</strong> actor—in Doctor Strangelove he played three very different roles: a jingoist general, a sedate President and a deranged scientist.</p>",
+          "example": "Peter Sellers was truly a protean actor—in Doctor Strangelove he played three very different roles: a jingoist general, a sedate President and a deranged scientist."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/protean"
+    },
+    {
+      "word": "benighted",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> fallen into a state of ignorance</p>",
+          "definition": "adjective: fallen into a state of ignorance",
+          "exampleHtml": "<p>Far from being a period of utter <strong>benightedness</strong>, The Medieval Ages produced some great works of theological speculation.</p>",
+          "example": "Far from being a period of utter benightedness, The Medieval Ages produced some great works of theological speculation."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/benighted"
+    },
+    {
+      "word": "maudlin",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> overly emotional and sad</p>",
+          "definition": "adjective: overly emotional and sad",
+          "exampleHtml": "<p>Just as those who were alive during the 70’s are mortified that they once cavorted about in bellbottoms, many who lived during the 80’s are now aghast at the <strong>maudlin</strong> pop songs they used to enjoy—really, just what exactly is a total eclipse of the heart?</p>",
+          "example": "Just as those who were alive during the 70’s are mortified that they once cavorted about in bellbottoms, many who lived during the 80’s are now aghast at the maudlin pop songs they used to enjoy—really, just what exactly is a total eclipse of the heart?"
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/maudlin"
+    },
+    {
+      "word": "remonstrate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to make objections while pleading</p>",
+          "definition": "verb: to make objections while pleading",
+          "exampleHtml": "<p>The mothers of the kidnapped victims <strong>remonstrated</strong> to the rogue government to release their children, claiming that the detention violated human rights.</p>",
+          "example": "The mothers of the kidnapped victims remonstrated to the rogue government to release their children, claiming that the detention violated human rights."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/remonstrate"
+    },
+    {
+      "word": "jaundiced",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be biased against due to envy or prejudice</p>",
+          "definition": "adjective: to be biased against due to envy or prejudice",
+          "exampleHtml": "<p>Shelly was <strong>jaundiced</strong> towards Olivia; though the two had once been best friends, Olivia had become class president, prom queen, and, to make matters worse, the girlfriend of the one boy Shelly liked.</p>",
+          "example": "Shelly was jaundiced towards Olivia; though the two had once been best friends, Olivia had become class president, prom queen, and, to make matters worse, the girlfriend of the one boy Shelly liked."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/jaundiced"
+    },
+    {
+      "word": "cupidity",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> greed for money</p>",
+          "definition": "noun: greed for money",
+          "exampleHtml": "<p>Some people believe that amassing as much wealth as possible is the meaning to life—yet they often realize that <strong>cupidity</strong> brings anything but happiness. </p>",
+          "example": "Some people believe that amassing as much wealth as possible is the meaning to life—yet they often realize that cupidity brings anything but happiness."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/cupidity"
+    },
+    {
+      "word": "malapropism",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the confusion of a word with another word that sounds similar </p>",
+          "definition": "noun: the confusion of a word with another word that sounds similar",
+          "exampleHtml": "<p>Whenever I looked glum, my mother would offer to share \"an amusing antidote\" with me—an endearing <strong>malapropism</strong> of \"anecdote\" that never failed to cheer me up.</p>",
+          "example": "Whenever I looked glum, my mother would offer to share \"an amusing antidote\" with me—an endearing malapropism of \"anecdote\" that never failed to cheer me up."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/malapropism"
+    },
+    {
+      "word": "venial",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> easily excused or forgiven; pardonable</p>",
+          "definition": "adjective: easily excused or forgiven; pardonable",
+          "exampleHtml": "<p>His traffic violations ran the gamut from the <strong>venial</strong> to the egregious—on one occasion he simply did not come to a complete stop; another time he tried to escape across state lines at speeds in excess of 140 mph.</p>",
+          "example": "His traffic violations ran the gamut from the venial to the egregious—on one occasion he simply did not come to a complete stop; another time he tried to escape across state lines at speeds in excess of 140 mph."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/venial"
+    },
+    {
+      "word": "factitious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> artificial; not natural</p>",
+          "definition": "adjective: artificial; not natural",
+          "exampleHtml": "<p>The defendant’s story was largely <strong>factitious</strong> and did not accord with eyewitness testimonies</p>",
+          "example": "The defendant’s story was largely factitious and did not accord with eyewitness testimonies"
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/factitious"
+    },
+    {
+      "word": "propitiate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to placate or appease</p>",
+          "definition": "verb: to placate or appease",
+          "exampleHtml": "<p>The two sons, plying their angry father with cheesy neckties for Christmas, were hardly able to <strong>propitiate</strong> him – the father already had a drawer full of ones he had never worn before or ever planned to.</p>",
+          "example": "The two sons, plying their angry father with cheesy neckties for Christmas, were hardly able to propitiate him – the father already had a drawer full of ones he had never worn before or ever planned to."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/propitiate"
+    },
+    {
+      "word": "quisling",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a traitor</p>",
+          "definition": "noun: a traitor",
+          "exampleHtml": "<p>History looks unfavorably upon <strong>quislings</strong>; indeed they are accorded about the same fondness as Nero—who watched his city burn down while playing the violin.</p>",
+          "example": "History looks unfavorably upon quislings; indeed they are accorded about the same fondness as Nero—who watched his city burn down while playing the violin."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/quisling"
+    },
+    {
+      "word": "phantasmagorical",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> illusive; unreal</p>",
+          "definition": "adjective: illusive; unreal",
+          "exampleHtml": "<p>Those suffering from malaria fall into a feverish sleep, their world a whirligig of <strong>phantasmagoria</strong>; if they recover, they are unsure of what actually took place and what was simply a product of their febrile imaginations.</p>",
+          "example": "Those suffering from malaria fall into a feverish sleep, their world a whirligig of phantasmagoria; if they recover, they are unsure of what actually took place and what was simply a product of their febrile imaginations."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/phantasmagorical"
+    },
+    {
+      "word": "disabuse",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to persuade somebody that his/her belief is not valid</p>",
+          "definition": "verb: to persuade somebody that his/her belief is not valid",
+          "exampleHtml": "<p>As a child, I was quickly <strong>disabused</strong> of the notion that Santa Claus was a rotund benefactor of infinite largess—one night I saw my mother diligently wrapping presents and storing them under our Christmas tree.</p>",
+          "example": "As a child, I was quickly disabused of the notion that Santa Claus was a rotund benefactor of infinite largess—one night I saw my mother diligently wrapping presents and storing them under our Christmas tree."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/disabuse"
+    },
+    {
+      "word": "sartorial",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> related to fashion or clothes</p>",
+          "definition": "adjective: related to fashion or clothes",
+          "exampleHtml": "<p>Monte was astute at navigating the world of finance; <strong>sartorially</strong>, however, he was found wanting—he typically would attempt to complement his beige tie with a gray suit and white pants.</p>",
+          "example": "Monte was astute at navigating the world of finance; sartorially, however, he was found wanting—he typically would attempt to complement his beige tie with a gray suit and white pants."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/sartorial"
+    },
+    {
+      "word": "Magoosh Video Lessons",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> A resource available to students to help them study for the GRE.  Learn more at http://gre.magoosh.com</p>",
+          "definition": "noun: A resource available to students to help them study for the GRE.  Learn more at http://gre.magoosh.com",
+          "exampleHtml": "<p>Chris did well on the GRE after learning from over 200 <strong>Magoosh video lessons</strong>.  </p>",
+          "example": "Chris did well on the GRE after learning from over 200 Magoosh video lessons."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/magoosh-video-lessons"
+    },
+    {
+      "word": "Pollyannaish",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> extremely optimistic</p>",
+          "definition": "adjective: extremely optimistic",
+          "exampleHtml": "<p>Even in the midst of a lousy sales quarter, Debbie remained <strong>Pollyannaish</strong>, never losing her shrill voice and wide smile, even when prospective customers hung up on her.</p>",
+          "example": "Even in the midst of a lousy sales quarter, Debbie remained Pollyannaish, never losing her shrill voice and wide smile, even when prospective customers hung up on her."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/Pollyannaish"
+    },
+    {
+      "word": "curmudgeon",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a grouchy, surly person</p>",
+          "definition": "noun: a grouchy, surly person",
+          "exampleHtml": "<p>Since Uncle Mike was the family <strong>curmudgeon</strong>, each Thanksgiving he was plied with copious amounts of wine, in the hope that he would become less grouchy.</p>",
+          "example": "Since Uncle Mike was the family curmudgeon, each Thanksgiving he was plied with copious amounts of wine, in the hope that he would become less grouchy."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/curmudgeon"
+    },
+    {
+      "word": "sangfroid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> calmness or poise in difficult situations</p>",
+          "definition": "noun: calmness or poise in difficult situations",
+          "exampleHtml": "<p>The hostage negotiator exhibited a <strong>sangfroid</strong> that oftentimes was more menacing than the sword at his throat, or the gun at his head.</p>",
+          "example": "The hostage negotiator exhibited a sangfroid that oftentimes was more menacing than the sword at his throat, or the gun at his head."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/sangfroid"
+    },
+    {
+      "word": "tendentious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> likely to lean towards a controversial view</p>",
+          "definition": "adjective: likely to lean towards a controversial view",
+          "exampleHtml": "<p>Because political mudslinging has become a staple of the 24-hour media cycle, most of us, despite protestations to the contrary, are <strong>tendentious</strong> on many of today’s pressing issues.</p>",
+          "example": "Because political mudslinging has become a staple of the 24-hour media cycle, most of us, despite protestations to the contrary, are tendentious on many of today’s pressing issues."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/tendentious"
+    },
+    {
+      "word": "histrionic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be overly theatrical</p>",
+          "definition": "adjective: to be overly theatrical",
+          "exampleHtml": "<p>Though she received a B- on the test, she had such a <strong>histrionic</strong> outburst that one would have thought that she’d been handed a death sentence.</p>",
+          "example": "Though she received a B- on the test, she had such a histrionic outburst that one would have thought that she’d been handed a death sentence."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/histrionic"
+    },
+    {
+      "word": "juggernaut",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a force that cannot be stopped</p>",
+          "definition": "noun: a force that cannot be stopped",
+          "exampleHtml": "<p>Napoleon was considered a <strong>juggernaut</strong> until he decided to invade Russia in winter; after which, his once indomitable army was decimated by cold and famine.</p>",
+          "example": "Napoleon was considered a juggernaut until he decided to invade Russia in winter; after which, his once indomitable army was decimated by cold and famine."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/juggernaut"
+    },
+    {
+      "word": "fell",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> terribly evil</p>",
+          "definition": "adjective: terribly evil",
+          "exampleHtml": "<p>For fans of the Harry Potter series, the <strong>fell</strong> Lord Voldemort, who terrorized poor Harry for seven lengthy installments, has finally been vanquished by the forces of good—unless, that is, JK Rowling decides to come out of retirement.</p>",
+          "example": "For fans of the Harry Potter series, the fell Lord Voldemort, who terrorized poor Harry for seven lengthy installments, has finally been vanquished by the forces of good—unless, that is, JK Rowling decides to come out of retirement."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/fell"
+    },
+    {
+      "word": "impecunious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> lacking money; poor</p>",
+          "definition": "adjective: lacking money; poor",
+          "exampleHtml": "<p>In extremely trying times, even the moderately wealthy, after a few turns of ill-fortune, can become <strong>impecunious</strong>. </p>",
+          "example": "In extremely trying times, even the moderately wealthy, after a few turns of ill-fortune, can become impecunious."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/impecunious"
+    },
+    {
+      "word": "limpid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having clarity in terms of expression</p>",
+          "definition": "adjective: having clarity in terms of expression",
+          "exampleHtml": "<p>Her <strong>limpid</strong> prose made even the most recondite subjects accessible to all.</p>",
+          "example": "Her limpid prose made even the most recondite subjects accessible to all."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/limpid"
+    },
+    {
+      "word": "excoriate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to criticize very harshly</p>",
+          "definition": "verb: to criticize very harshly",
+          "exampleHtml": "<p>Entrusted with the prototype to his company’s latest smartphone, Larry, during a late night karaoke bout, let the prototype slip into the hands of a rival company—the next day Larry was <strong>excoriated</strong>, and then fired. </p>",
+          "example": "Entrusted with the prototype to his company’s latest smartphone, Larry, during a late night karaoke bout, let the prototype slip into the hands of a rival company—the next day Larry was excoriated, and then fired."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/excoriate"
+    },
+    {
+      "word": "mellifluous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> smooth and sweet-sounding</p>",
+          "definition": "adjective: smooth and sweet-sounding",
+          "exampleHtml": "<p>Chelsea’s grandmother thought Franz Schubert’s music to be the most <strong>mellifluous</strong> ever written; Chelsea demurred, and to her grandmother’s chagrin, would blast Rihanna on the home stereo speakers. </p>",
+          "example": "Chelsea’s grandmother thought Franz Schubert’s music to be the most mellifluous ever written; Chelsea demurred, and to her grandmother’s chagrin, would blast Rihanna on the home stereo speakers."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/mellifluous"
+    },
+    {
+      "word": "hedge",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to limit or qualify a statement; to avoid making a direct statement</p>",
+          "definition": "verb: to limit or qualify a statement; to avoid making a direct statement",
+          "exampleHtml": "<p>When asked why he had decided to buy millions of shares at the very moment the tech company's stock soared, the CEO <strong>hedged</strong>, mentioning something vague about gut instinct.</p>",
+          "example": "When asked why he had decided to buy millions of shares at the very moment the tech company's stock soared, the CEO hedged, mentioning something vague about gut instinct."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/hedge"
+    },
+    {
+      "word": "expurgate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to remove objectionable material</p>",
+          "definition": "verb: to remove objectionable material",
+          "exampleHtml": "<p>The censor <strong>expurgated</strong> every reference to sex and drugs, converting the rapper's raunchy flow into a series of bleeps.</p>",
+          "example": "The censor expurgated every reference to sex and drugs, converting the rapper's raunchy flow into a series of bleeps."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/expurgate"
+    },
+    {
+      "word": "jejune",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> dull; lacking flavor</p>",
+          "definition": "adjective: dull; lacking flavor",
+          "exampleHtml": "<p>Although many top chefs have secured culinary foam's popularity in haute cuisine, Waters criticizes it for being <strong>jejune</strong> and unfilling.</p>",
+          "example": "Although many top chefs have secured culinary foam's popularity in haute cuisine, Waters criticizes it for being jejune and unfilling."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> immature; childish</p>",
+          "definition": "adjective: immature; childish",
+          "exampleHtml": "<p>Her boss further cemented his reputation for being <strong>jejune</strong> after throwing a fit when the water cooler wasn't refilled.</p>",
+          "example": "Her boss further cemented his reputation for being jejune after throwing a fit when the water cooler wasn't refilled."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/jejune"
+    },
+    {
+      "word": "vituperate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to criticize harshly; to berate</p>",
+          "definition": "verb: to criticize harshly; to berate",
+          "exampleHtml": "<p>Jason had dealt with disciplinarians before, but nothing prepared him for the first week of boot camp, as drill sergeants <strong>vituperate</strong>d him for petty oversights such as forgetting to double knot the laces on his boots. </p>",
+          "example": "Jason had dealt with disciplinarians before, but nothing prepared him for the first week of boot camp, as drill sergeants vituperated him for petty oversights such as forgetting to double knot the laces on his boots."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/vituperate"
+    },
+    {
+      "word": "schadenfreude",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> joy from watching the suffering of others</p>",
+          "definition": "noun: joy from watching the suffering of others",
+          "exampleHtml": "<p>From his warm apartment window, Stanley reveled in <strong>schadenfreude</strong> as he laughed at the figures below, huddled together in the arctic chill.</p>",
+          "example": "From his warm apartment window, Stanley reveled in schadenfreude as he laughed at the figures below, huddled together in the arctic chill."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/schadenfreude"
+    },
+    {
+      "word": "mettlesome",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> filled with courage or valor</p>",
+          "definition": "adjective: filled with courage or valor",
+          "exampleHtml": "<p>For its raid on the Bin Laden’s compound in Abbottabad, Seal Team Six has become, for many Americans, the embodiment of <strong>mettle</strong>.</p>",
+          "example": "For its raid on the Bin Laden’s compound in Abbottabad, Seal Team Six has become, for many Americans, the embodiment of mettle."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/mettlesome"
+    },
+    {
+      "word": "mulct",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to defraud or swindle</p>",
+          "definition": "verb: to defraud or swindle",
+          "exampleHtml": "<p>The so-called magical diet cure simply ended up <strong>mulcting</strong> Maria out of hundreds of dollars, but did nothing for her weight.</p>",
+          "example": "The so-called magical diet cure simply ended up mulcting Maria out of hundreds of dollars, but did nothing for her weight."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/mulct"
+    },
+    {
+      "word": "arriviste",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who has recently reached a position of power; a social climber</p>",
+          "definition": "noun: a person who has recently reached a position of power; a social climber",
+          "exampleHtml": "<p>The city center was aflutter with <strong>arrivistes</strong> who tried to outdo one another with their ostentatious sports cars and chic evening dress.</p>",
+          "example": "The city center was aflutter with arrivistes who tried to outdo one another with their ostentatious sports cars and chic evening dress."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/arriviste"
+    },
+    {
+      "word": "bilious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> irritable; always angry</p>",
+          "definition": "adjective: irritable; always angry",
+          "exampleHtml": "<p>Rex was <strong>bilious</strong> all morning, and his face would only take on a look of contentedness when he’d had his morning cup of coffee.</p>",
+          "example": "Rex was bilious all morning, and his face would only take on a look of contentedness when he’d had his morning cup of coffee."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/bilious"
+    },
+    {
+      "word": "quixotic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> wildly idealistic; impractical</p>",
+          "definition": "adjective: wildly idealistic; impractical",
+          "exampleHtml": "<p>For every thousand startups with <strong>quixotic</strong> plans to be the next big name in e-commerce, only a handful ever become profitable.</p>",
+          "example": "For every thousand startups with quixotic plans to be the next big name in e-commerce, only a handful ever become profitable."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/advanced-words-ii/quixotic"
+    }
+  ]
+}

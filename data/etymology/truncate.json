@@ -1,0 +1,18 @@
+{
+  "word": "truncate",
+  "source": "https://en.wiktionary.org/wiki/truncate",
+  "etymologies": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "From Latin truncātus, perfect passive participle of truncō (“maim, reduce to a trunk”); see trunk as a verb."
+      ],
+      "senses": [
+        "(transitive) To shorten (something) by, or as if by, cutting part of it off.",
+        "(mathematics, transitive) To shorten (a decimal number) by removing trailing (or leading) digits.",
+        "Truncated.",
+        "(botany, anatomy) Having an abrupt termination."
+      ]
+    }
+  ]
+}

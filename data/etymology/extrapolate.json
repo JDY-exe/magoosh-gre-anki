@@ -1,0 +1,16 @@
+{
+  "word": "extrapolate",
+  "source": "https://en.wiktionary.org/wiki/extrapolate",
+  "etymologies": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "From extra- + (inter)polate."
+      ],
+      "senses": [
+        "(transitive) To infer by extending known information.",
+        "(transitive, mathematics) To estimate the value of a variable outside a known range from values within that range by assuming that the estimated value follows logically from the known ones"
+      ]
+    }
+  ]
+}

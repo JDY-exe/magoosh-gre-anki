@@ -1,0 +1,389 @@
+{
+  "belie": {
+    "indices": [
+      1
+    ]
+  },
+  "burgeon": {
+    "indices": [
+      1
+    ]
+  },
+  "intimate": {
+    "indices": [
+      2
+    ],
+    "text": "The verb comes from Latin intimātus, related to intimō (‘to put or bring into; to make familiar’) and intimus (‘inmost, innermost’)."
+  },
+  "gall": {
+    "indices": [
+      0,
+      1
+    ],
+    "text": "The noun comes from Old English ġealla (‘bile’); the bitter fluid gave rise to the figurative senses of bitterness and impudence. The verb ‘to annoy’ belongs to a separate origin: Old English gealla, ‘a sore spot on the skin’, hence ‘to chafe’ and figuratively ‘to bother’."
+  },
+  "staunch": {
+    "indices": [
+      0
+    ],
+    "text": "From Middle English staunch (‘solidly made, firm; watertight’), through Anglo-Norman and Old French forms meaning ‘firm; watertight’. The older idea of sound, firm construction developed into steadfastness and loyalty."
+  },
+  "lambast": {
+    "lemma": "lambaste",
+    "text": "A variant spelling of lambaste, first attested in 1637; probably from lam (‘beat’) + baste (‘beat’)."
+  },
+  "entrenched": {
+    "lemma": "entrench",
+    "text": "The past participle of entrench, formed from en- + trench. Its literal sense is ‘to cut trenches’; the figurative sense conveys being firmly established."
+  },
+  "bumbling": {
+    "lemma": "bumble",
+    "text": "From bumble + -ing. Bumble (‘to act or move awkwardly or in confusion’) is of imitative origin; compare bungle, jumble, and fumble."
+  },
+  "largess": {
+    "lemma": "largesse",
+    "text": "A variant of largesse, from Middle English and Old French forms meaning ‘generous giving; generosity’, ultimately from large (‘big; generous; wide’)."
+  },
+  "adulterate": {
+    "indices": [
+      1
+    ],
+    "text": "From Latin adulterātus, from adulterō (‘to adulterate, defile, counterfeit’), built from ad- (‘to’) and alter (‘other’)."
+  },
+  "harried": {
+    "lemma": "harry",
+    "text": "From harry + -ed. Harry comes through Middle English from Old English herġian (‘to raid, ravage’), related to a Germanic word for ‘army’."
+  },
+  "edifying": {
+    "lemma": "edify",
+    "text": "From edify + -ing. Edify comes from Old French edifier (‘to build; to edify’), from Latin aedificare (‘to build’); the figurative sense is to build up morally or intellectually."
+  },
+  "indeterminate": {
+    "lemma": "determinate",
+    "text": "Formed with in- (‘not’) and determinate (‘fixed, clearly defined’). Determinate comes from Latin dēterminātus, from dēterminō (‘to limit, set bounds’)."
+  },
+  "pine": {
+    "indices": [
+      2
+    ]
+  },
+  "tender": {
+    "indices": [
+      4
+    ]
+  },
+  "wax": {
+    "indices": [
+      2
+    ]
+  },
+  "start": {
+    "indices": [
+      1
+    ]
+  },
+  "stem": {
+    "indices": [
+      1
+    ]
+  },
+  "raft": {
+    "indices": [
+      1
+    ]
+  },
+  "flounder": {
+    "indices": [
+      1
+    ]
+  },
+  "hound": {
+    "indices": [
+      1
+    ],
+    "text": "The verb comes from Middle English hounden, derived from hound (‘dog’). The noun goes back to Old English hund; pursuing someone like a hunting dog gives the figurative sense."
+  },
+  "check": {
+    "indices": [
+      1
+    ],
+    "text": "The verb comes from Middle English chekken, partly through Old French eschequier and partly from the noun check. The word family ultimately traces through chess terminology to Persian shāh (‘king’)."
+  },
+  "flush": {
+    "indices": [
+      1
+    ],
+    "text": "The sense ‘wealthy, well supplied’ is linked to flush meaning a sudden flow or rush, according to the American Heritage Dictionary as cited by Wiktionary. The deeper origin is uncertain."
+  },
+  "boon": {
+    "indices": [
+      0,
+      1
+    ],
+    "text": "The noun (‘benefit, favor’) comes from Old Norse bón (‘prayer, petition’). The adjective in ‘boon companion’ comes from Old French bon (‘good’), from Latin bonus. The similar forms influenced one another."
+  },
+  "telling": {
+    "indices": [
+      1
+    ],
+    "text": "Formed from tell + -ing. The adjective describes something that effectively tells or reveals something."
+  },
+  "retract": {
+    "indices": [
+      0,
+      2
+    ],
+    "text": "Two related Latin sources are involved: retrahō (‘to draw or pull back’) underlies physical withdrawal; retractāre (‘to reconsider, withdraw’) underlies taking back a statement or opinion."
+  },
+  "fawn": {
+    "indices": [
+      1
+    ]
+  },
+  "delegate": {
+    "indices": [
+      1
+    ],
+    "text": "The verb was formed from the noun delegate or borrowed directly from Latin dēlēgātus, from dēlēgō (‘to send or assign as a representative’)."
+  },
+  "errant": {
+    "text": "From Middle English erraunt, through Anglo-Norman and Old French errant, the present participle of errer (‘to walk; to wander; to travel’)."
+  },
+  "demure": {
+    "text": "From Middle English demure, shortened from Anglo-Norman de mure port (‘with a mature demeanor’); compare Old French meur, from Latin mātūrus."
+  },
+  "peevish": {
+    "text": "From late Middle English forms such as pievish and pevish, meaning ‘capricious, wilful; perverse, wayward’. The deeper origin is uncertain."
+  },
+  "becoming": {
+    "lemma": "become",
+    "text": "From become + -ing. Become goes back to Old English becuman, with senses including ‘to come to; to happen; to befit’. The ‘befit’ sense underlies becoming meaning suitable or attractive."
+  },
+  "aboveboard": {
+    "lemma": "above-board",
+    "text": "From above + board (‘table’). The traditional explanation connects it with keeping a gambler’s hands above the table, in open sight."
+  },
+  "fete": {
+    "lemma": "fête",
+    "indices": [
+      1
+    ],
+    "text": "Borrowed from French fêter (‘to celebrate, honor with a fête’)."
+  },
+  "hamstrung": {
+    "lemma": "hamstring",
+    "text": "The past form of hamstring, from ham (‘back of the knee’) + string. The literal action disables the tendons behind the knee; the figurative use means making someone ineffective."
+  },
+  "plodding": {
+    "lemma": "plod",
+    "text": "From plod + -ing. Plod is probably related to Middle English plodde or pludde (‘a puddle’), originally suggesting slow, heavy progress through water or mud."
+  },
+  "muted": {
+    "lemma": "mute",
+    "text": "From mute + -ed. Mute comes through Anglo-Norman and Middle French muet (‘silent’), remodeled after Latin mūtus."
+  },
+  "obliging": {
+    "lemma": "oblige",
+    "text": "From oblige + -ing. Oblige comes through Old French obligier from Latin obligō, formed from ob- and ligō. Doing a favor originally placed someone under an obligation."
+  },
+  "carping": {
+    "lemma": "carp",
+    "indices": [
+      1
+    ],
+    "text": "From carp + -ing. The verb comes from Middle English carpen (‘to talk; to find fault’), partly from Old Norse karpa (‘to boast; to dispute’) and partly influenced by Latin carpere (‘to pick; to criticize’)."
+  },
+  "retiring": {
+    "lemma": "retire",
+    "text": "From retire + -ing. Retire comes from French retirer (‘to draw back’), from re- (‘back’) and tirer (‘to draw, pull’)."
+  },
+  "dilapidated": {
+    "lemma": "dilapidate",
+    "text": "From dilapidate + -ed. Dilapidate comes from Latin dilapidō (‘to scatter, consume, throw away’), built from dis- (‘apart’) and lapis (‘stone’)."
+  },
+  "embroiled": {
+    "lemma": "embroil",
+    "text": "From embroil + -ed. Embroil was borrowed from French embrouiller (‘to entangle’), from em- (‘in, into’) and brouiller (‘to confuse, mix up’)."
+  },
+  "chauvinist": {
+    "lemma": "chauvinism",
+    "text": "From chauvinism, borrowed from French chauvinisme and named for Nicolas Chauvin, a legendary soldier famous for excessive patriotic devotion."
+  },
+  "subversive": {
+    "lemma": "subvert",
+    "text": "From subvert + -ive. Subvert comes through Old French subvertir from Latin subvertō (‘to overthrow’), literally ‘to turn from beneath’."
+  },
+  "decorous": {
+    "text": "From Latin decōrus (‘becoming, fitting, proper, suitable’) and the English adjective suffix -ous."
+  },
+  "sublime": {
+    "indices": [
+      1
+    ]
+  },
+  "hamper": {
+    "indices": [
+      1
+    ]
+  },
+  "morph": {
+    "indices": [
+      2
+    ]
+  },
+  "secrete": {
+    "indices": [
+      1
+    ]
+  },
+  "compound": {
+    "indices": [
+      1
+    ]
+  },
+  "unfettered": {
+    "indices": [
+      1
+    ]
+  },
+  "yoke": {
+    "indices": [
+      1
+    ],
+    "text": "The verb comes from Middle English yoken (‘to put a harness or yoke on’), derived from the noun yoke. The noun goes back to Old English ġeoc and ultimately a root meaning ‘to join’."
+  },
+  "subjugate": {
+    "indices": [
+      1
+    ],
+    "text": "From Latin subiugātus, from subiugō (‘to make subject’), formed from sub- (‘under’) and iugō (‘to yoke’), from iugum (‘yoke’). The literal image is bringing someone under a yoke."
+  },
+  "striated": {
+    "lemma": "striate",
+    "text": "From striate + -ed. Striate comes from Latin striatum, the past participle of strio (‘to groove’)."
+  },
+  "conciliatory": {
+    "lemma": "conciliate",
+    "text": "Related to conciliate, from Latin conciliātus, from conciliō (‘to unite’), ultimately from concilium (‘council, meeting’)."
+  },
+  "savor": {
+    "lemma": "savour",
+    "indices": [
+      1
+    ],
+    "text": "The American spelling of savour. The verb comes through Old French savourer from Late Latin sapōrāre (‘to give flavor; to give pleasure’), from Latin sapor (‘taste’)."
+  },
+  "inkling": {
+    "indices": [
+      0
+    ],
+    "text": "From Middle English forms such as ningkiling (‘hint, slight indication; whisper’). The deeper derivation is disputed; it is often connected with inkle (‘to mention in a low voice’)."
+  },
+  "buck": {
+    "indices": [
+      1
+    ]
+  },
+  "cow": {
+    "indices": [
+      1
+    ]
+  },
+  "insufferable": {
+    "text": "From Late Middle English insufferable (‘intolerable’), either formed from in- (‘not’) + sufferable or borrowed from Old French insouffrable. The word family goes back to Latin sufferre (‘to bear, endure’)."
+  },
+  "byzantine": {
+    "lemma": "Byzantine"
+  },
+  "base": {
+    "indices": [
+      1
+    ]
+  },
+  "arch": {
+    "indices": [
+      1
+    ]
+  },
+  "arrant": {
+    "text": "A variant of errant, from Old French errant (‘wandering’). Frequent use in expressions such as ‘arrant knave’ and ‘arrant thief’ shifted the word from ‘roving’ toward ‘downright, utter’, usually with a negative sense."
+  },
+  "blinkered": {
+    "lemma": "blinker",
+    "text": "From blinker + -ed. Blinkers restrict a horse’s side vision; the figurative adjective suggests a similarly restricted outlook."
+  },
+  "fell": {
+    "indices": [
+      3
+    ]
+  },
+  "hail": {
+    "indices": [
+      2
+    ]
+  },
+  "hedge": {
+    "indices": [
+      1
+    ],
+    "text": "The verb comes from Middle English heggen, derived from hedge (‘a fence or enclosure’), going back to Old English heċġ."
+  },
+  "Apostate": {
+    "lemma": "apostate"
+  },
+  "patent": {
+    "indices": [
+      1
+    ]
+  },
+  "rarefied": {
+    "lemma": "rarefy",
+    "text": "From rarefy + -ed. Rarefy comes through Old French rarefier from Latin rarefacere (‘to make rare or thin’)."
+  },
+  "denouement": {
+    "lemma": "dénouement",
+    "text": "A spelling of dénouement, borrowed from French dénouement (‘resolution’), literally ‘unknotting’."
+  },
+  "philistine": {
+    "text": "From Philistine, influenced by German Philister (‘a university outsider; someone lacking appreciation of art or culture’). The adjective developed from the noun."
+  },
+  "recrudesce": {
+    "lemma": "recrudescent",
+    "text": "Ultimately from Latin recrūdēscō (‘to become raw again’), formed from re- (‘again’) and crūdēscō (‘to become raw or harsh’)."
+  },
+  "desiccated": {
+    "lemma": "desiccate",
+    "text": "From desiccate + -ed. Desiccate comes from Latin dēsiccō (‘to dry completely’), formed from dē- (‘completely’) and siccus (‘dry’). The adjective extends the idea of drying out to a loss of vitality."
+  },
+  "callow": {
+    "text": "From Middle English calwe and Old English calu (‘bald, bare, without hair’). The deeper history is uncertain."
+  },
+  "pontificate": {
+    "indices": [
+      1
+    ]
+  },
+  "graft": {
+    "indices": [
+      2
+    ],
+    "text": "The corruption sense has an uncertain origin. Proposed links include an older sense of ‘digging’, extended to work and then dishonest work; another theory connects it with a graft or unwanted growth on a plant."
+  },
+  "flag": {
+    "indices": [
+      1
+    ]
+  },
+  "row": {
+    "indices": [
+      2
+    ]
+  },
+  "attenuated": {
+    "lemma": "attenuate",
+    "text": "From attenuate + -ed. Attenuate comes from Latin attenuātus, from attenuō (‘to make thin’), formed from ad- and tenuis (‘thin’)."
+  },
+  "requite": {
+    "text": "From Middle English requiten (‘to repay’), partly from re- (‘back, again’) + quiten (‘to pay, repay; to set free’), and partly from Old French requiter (‘to free again’)."
+  }
+}

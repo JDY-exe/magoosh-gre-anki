@@ -1,0 +1,47 @@
+{
+  "word": "demean",
+  "source": "https://en.wiktionary.org/wiki/demean",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "(1595) From de- +‎ mean (“lowly, base, common”), from Middle English mene, aphetic variation of imene (“mean, base, common”), from Old English ġemǣne (“mean, common”). Compare English bemean."
+      ],
+      "senses": [
+        "To debase; to lower; to degrade.",
+        "To humble; to humiliate."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "From Middle English demenen, demeinen, from Anglo-Norman demener, from Old French demener, from de- + mener (“to conduct, lead”), from Latin mināre, from minārī (“to threaten”)."
+      ],
+      "senses": [
+        "(obsolete) To manage; to conduct; to treat.",
+        "(now rare) To conduct; to behave; to comport; followed by the reflexive pronoun.",
+        "(obsolete) Management; treatment.",
+        "(obsolete) Behavior; conduct; bearing; demeanor."
+      ]
+    },
+    {
+      "heading": "Etymology 3",
+      "paragraphs": [
+        "Variant of demesne."
+      ],
+      "senses": [
+        "demesne.",
+        "resources; means."
+      ]
+    },
+    {
+      "heading": "Etymology 4",
+      "paragraphs": [
+        "de- +‎ mean"
+      ],
+      "senses": [
+        "(statistics, transitive) To subtract the mean from (a value, or every observation in a data set)."
+      ]
+    }
+  ]
+}

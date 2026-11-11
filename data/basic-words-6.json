@@ -1,0 +1,631 @@
+{
+  "name": "Basic VI",
+  "expected": 50,
+  "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-6",
+  "cards": [
+    {
+      "word": "tribulation",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> something, especially an event, that causes difficulty and suffering</p>",
+          "definition": "noun: something, especially an event, that causes difficulty and suffering",
+          "exampleHtml": "<p>As of 2013, nearly 1.5 million Syrians have fled their country hoping to escape the <strong>tribulations</strong> of a civil war tearing their country to pieces.</p>",
+          "example": "As of 2013, nearly 1.5 million Syrians have fled their country hoping to escape the tribulations of a civil war tearing their country to pieces."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/tribulation"
+    },
+    {
+      "word": "profusion",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the property of being extremely abundant</p>",
+          "definition": "noun: the property of being extremely abundant",
+          "exampleHtml": "<p>When Maria reported that she had been visited by Jesus Christ and had proof, a <strong>profusion</strong> of reporters and journalists descended on the town.</p>",
+          "example": "When Maria reported that she had been visited by Jesus Christ and had proof, a profusion of reporters and journalists descended on the town."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/profusion"
+    },
+    {
+      "word": "eccentric",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> highly unconventional or unusual (usually describes a person)</p>",
+          "definition": "adjective: highly unconventional or unusual (usually describes a person)",
+          "exampleHtml": "<p>Mozart was well-known for his <strong>eccentricities</strong>, often speaking words backward to confuse those around him.</p>",
+          "example": "Mozart was well-known for his eccentricities, often speaking words backward to confuse those around him."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/eccentric"
+    },
+    {
+      "word": "begrudge",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to envy someone for possessing or enjoying something</p>",
+          "definition": "verb: to envy someone for possessing or enjoying something",
+          "exampleHtml": "<p>Sitting all alone in his room, Harvey <strong>begrudged</strong> the happiness of the other children playing outside his window.</p>",
+          "example": "Sitting all alone in his room, Harvey begrudged the happiness of the other children playing outside his window."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to give reluctantly</p>",
+          "definition": "verb: to give reluctantly",
+          "exampleHtml": "<p>We never <strong>begrudge</strong> money spent on ourselves.</p>",
+          "example": "We never begrudge money spent on ourselves."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/begrudge"
+    },
+    {
+      "word": "coalesce",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> fuse or cause to grow together</p>",
+          "definition": "verb: fuse or cause to grow together",
+          "exampleHtml": "<p>Over time, the various tribes <strong>coalesced</strong> into a single common culture with one universal language.</p>",
+          "example": "Over time, the various tribes coalesced into a single common culture with one universal language."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/coalesce"
+    },
+    {
+      "word": "glean",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> collect information bit by bit</p>",
+          "definition": "verb: collect information bit by bit",
+          "exampleHtml": "<p>Herb has given us no formal statement about his background, but from various hints, I have <strong>gleaned</strong> that he grew up in difficult circumstances.</p>",
+          "example": "Herb has given us no formal statement about his background, but from various hints, I have gleaned that he grew up in difficult circumstances."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/glean"
+    },
+    {
+      "word": "uncanny",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> suggesting the operation of supernatural influences; surpassing the ordinary or normal</p>",
+          "definition": "adjective: suggesting the operation of supernatural influences; surpassing the ordinary or normal",
+          "exampleHtml": "<p>Reggie has an <strong>uncanny</strong> ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger.</p>",
+          "example": "Reggie has an uncanny ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/uncanny"
+    },
+    {
+      "word": "conundrum",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a difficult problem</p>",
+          "definition": "noun: a difficult problem",
+          "exampleHtml": "<p>Computers have helped solve some of the mathematical <strong>conundrums</strong> which have puzzled man for many centuries.</p>",
+          "example": "Computers have helped solve some of the mathematical conundrums which have puzzled man for many centuries."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/conundrum"
+    },
+    {
+      "word": "rakish",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by a carefree unconventionality or disreputableness</p>",
+          "definition": "adjective: marked by a carefree unconventionality or disreputableness",
+          "exampleHtml": "<p>As soon as he arrived in the city, the <strong>rakish</strong> young man bought some drugs and headed straight for the seedy parts of town.</p>",
+          "example": "As soon as he arrived in the city, the rakish young man bought some drugs and headed straight for the seedy parts of town."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/rakish"
+    },
+    {
+      "word": "presumptuous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> excessively forward</p>",
+          "definition": "adjective: excessively forward",
+          "exampleHtml": "<p>Many felt that Barney was <strong>presumptuous</strong> in moving into the large office before the management even made any official announcement of his promotion.</p>",
+          "example": "Many felt that Barney was presumptuous in moving into the large office before the management even made any official announcement of his promotion."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/presumptuous"
+    },
+    {
+      "word": "wanton",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> without check or limitation; showing no moral restraints to one's anger, desire, or appetites</p>",
+          "definition": "adjective: without check or limitation; showing no moral restraints to one's anger, desire, or appetites",
+          "exampleHtml": "<p>Due to <strong>wanton</strong> behavior and crude language, the drunk man was thrown out of the bar and asked to never return.</p>",
+          "example": "Due to wanton behavior and crude language, the drunk man was thrown out of the bar and asked to never return."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/wanton"
+    },
+    {
+      "word": "behoove",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to be one's duty or obligation</p>",
+          "definition": "verb: to be one's duty or obligation",
+          "exampleHtml": "<p>The teacher looked down at the student and said, \"It would <strong>behoove</strong> you to be in class on time and complete your homework, so that you don't repeat freshman English for a third straight year.\"</p>",
+          "example": "The teacher looked down at the student and said, \"It would behoove you to be in class on time and complete your homework, so that you don't repeat freshman English for a third straight year.\""
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/behoove"
+    },
+    {
+      "word": "buttress",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> make stronger or defensible</p>",
+          "definition": "verb: make stronger or defensible",
+          "exampleHtml": "<p>China's economy has been <strong>buttressed</strong> by a global demand for the electronic parts the country manufactures.</p>",
+          "example": "China's economy has been buttressed by a global demand for the electronic parts the country manufactures."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/buttress"
+    },
+    {
+      "word": "redress",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an act of making something right</p>",
+          "definition": "noun: an act of making something right",
+          "exampleHtml": "<p>Barry's <strong>redress</strong> for forgetting his wife's birthday two years in a row was surprising her with a trip to Tahiti.</p>",
+          "example": "Barry's redress for forgetting his wife's birthday two years in a row was surprising her with a trip to Tahiti."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/redress"
+    },
+    {
+      "word": "incumbent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> necessary (for someone) as a duty or responsibility</p>",
+          "definition": "adjective: necessary (for someone) as a duty or responsibility",
+          "exampleHtml": "<p>Middle managers at times make important decisions, but real responsibility for the financial well-being of the corporation is ultimately <strong>incumbent</strong> on the CEO.</p>",
+          "example": "Middle managers at times make important decisions, but real responsibility for the financial well-being of the corporation is ultimately incumbent on the CEO."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/incumbent"
+    },
+    {
+      "word": "intermittent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> stopping and starting at irregular intervals</p>",
+          "definition": "adjective: stopping and starting at irregular intervals",
+          "exampleHtml": "<p>The <strong>intermittent</strong> thunder continued and the night was punctuated by cracks of lightning—a surreal sleepless night.</p>",
+          "example": "The intermittent thunder continued and the night was punctuated by cracks of lightning—a surreal sleepless night."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/intermittent"
+    },
+    {
+      "word": "incense",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> make furious</p>",
+          "definition": "verb: make furious",
+          "exampleHtml": "<p>When Herb bought football tickets for a game on the day of their wedding anniversary, Jill was <strong>incensed</strong>.</p>",
+          "example": "When Herb bought football tickets for a game on the day of their wedding anniversary, Jill was incensed."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/incense"
+    },
+    {
+      "word": "docile",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> easily handled or managed; willing to be taught or led or supervised or directed</p>",
+          "definition": "adjective: easily handled or managed; willing to be taught or led or supervised or directed",
+          "exampleHtml": "<p>Barnyard animals are considerably more <strong>docile</strong> than the wild animals.</p>",
+          "example": "Barnyard animals are considerably more docile than the wild animals."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/docile"
+    },
+    {
+      "word": "humdrum",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> dull and lacking excitement</p>",
+          "definition": "adjective: dull and lacking excitement",
+          "exampleHtml": "<p>Having grown up in a <strong>humdrum</strong> suburb, Jacob relished life in New York City after moving.</p>",
+          "example": "Having grown up in a humdrum suburb, Jacob relished life in New York City after moving."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/humdrum"
+    },
+    {
+      "word": "implicate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> convey a meaning; imply</p>",
+          "definition": "verb: convey a meaning; imply",
+          "exampleHtml": "<p>By saying that some of the guests were uncomfortable, the manager <strong>implicated</strong> to the hotel staff that it needed to be more diligent.</p>",
+          "example": "By saying that some of the guests were uncomfortable, the manager implicated to the hotel staff that it needed to be more diligent."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to indicate in wrongdoing, usually a crime</p>",
+          "definition": "verb: to indicate in wrongdoing, usually a crime",
+          "exampleHtml": "<p>The crime boss was <strong>implicated</strong> for a long list of crimes, ranging from murder to disturbing the peace.</p>",
+          "example": "The crime boss was implicated for a long list of crimes, ranging from murder to disturbing the peace."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/implicate"
+    },
+    {
+      "word": "delegate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> give an assignment to (a person)</p>",
+          "definition": "verb: give an assignment to (a person)",
+          "exampleHtml": "<p>Since the senior manager had to go on many international business trips, she was forced to <strong>delegate</strong> many of her responsibilities to two lower-level managers.</p>",
+          "example": "Since the senior manager had to go on many international business trips, she was forced to delegate many of her responsibilities to two lower-level managers."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/delegate"
+    },
+    {
+      "word": "ascribe",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> attribute or credit to</p>",
+          "definition": "verb: attribute or credit to",
+          "exampleHtml": "<p>History <strong>ascribes</strong> The Odyssey and The Iliad to Homer, but scholars now debate whether he was a historical figure or a fictitious name.</p>",
+          "example": "History ascribes The Odyssey and The Iliad to Homer, but scholars now debate whether he was a historical figure or a fictitious name."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/ascribe"
+    },
+    {
+      "word": "piquant",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having an agreeably pungent taste</p>",
+          "definition": "adjective: having an agreeably pungent taste",
+          "exampleHtml": "<p>The chef, with a mere flick of the salt shaker, turned the bland tomato soup into a <strong>piquant</strong> meal.</p>",
+          "example": "The chef, with a mere flick of the salt shaker, turned the bland tomato soup into a piquant meal."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/piquant"
+    },
+    {
+      "word": "analogous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> similar in some respects but otherwise different</p>",
+          "definition": "adjective: similar in some respects but otherwise different",
+          "exampleHtml": "<p>In many ways, the Internet's transformative effect on society has been <strong>analogous</strong> to that of the printing press.</p>",
+          "example": "In many ways, the Internet's transformative effect on society has been analogous to that of the printing press."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/analogous"
+    },
+    {
+      "word": "irascible",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> quickly aroused to anger</p>",
+          "definition": "adjective: quickly aroused to anger",
+          "exampleHtml": "<p>If Arthur's dog is not fed adequately, he becomes highly <strong>irascible</strong>, even growling at his own shadow.</p>",
+          "example": "If Arthur's dog is not fed adequately, he becomes highly irascible, even growling at his own shadow."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/irascible"
+    },
+    {
+      "word": "deride",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> treat or speak of with contempt</p>",
+          "definition": "verb: treat or speak of with contempt",
+          "exampleHtml": "<p>The nun <strong>derided</strong> the students for trying to sneak insects and worms into the classroom.</p>",
+          "example": "The nun derided the students for trying to sneak insects and worms into the classroom."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/deride"
+    },
+    {
+      "word": "besmirch",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> damage the good name and reputation of someone</p>",
+          "definition": "verb: damage the good name and reputation of someone",
+          "exampleHtml": "<p>The prince's distasteful choice of words <strong>besmirched</strong> not only his own name but also the reputation of the entire royal family.</p>",
+          "example": "The prince's distasteful choice of words besmirched not only his own name but also the reputation of the entire royal family."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/besmirch"
+    },
+    {
+      "word": "cavalier",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> given to haughty disregard of others</p>",
+          "definition": "adjective: given to haughty disregard of others",
+          "exampleHtml": "<p>Percy dismissed the issue with a <strong>cavalier</strong> wave of his hand.</p>",
+          "example": "Percy dismissed the issue with a cavalier wave of his hand."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/cavalier"
+    },
+    {
+      "word": "antedate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> precede in time</p>",
+          "definition": "verb: precede in time",
+          "exampleHtml": "<p>Harry was so unknowledgeable that he was unaware the Egyptian pharaohs <strong>antedate</strong>d the American Revolution.</p>",
+          "example": "Harry was so unknowledgeable that he was unaware the Egyptian pharaohs antedated the American Revolution."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/antedate"
+    },
+    {
+      "word": "veneer",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> covering consisting of a thin superficial layer that hides the underlying substance</p>",
+          "definition": "noun: covering consisting of a thin superficial layer that hides the underlying substance",
+          "exampleHtml": "<p>Mark Twain referred to the Victorian Period in America as the \"Gilded Age\", implying the ample moral corruption that lay beneath a mere <strong>veneer</strong> of respectability.</p>",
+          "example": "Mark Twain referred to the Victorian Period in America as the \"Gilded Age\", implying the ample moral corruption that lay beneath a mere veneer of respectability."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/veneer"
+    },
+    {
+      "word": "fawn",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> try to gain favor by extreme flattery</p>",
+          "definition": "verb: try to gain favor by extreme flattery",
+          "exampleHtml": "<p>The media <strong>fawned</strong> over the handsome new CEO, praising his impeccable sense of style instead of asking more pointed questions.</p>",
+          "example": "The media fawned over the handsome new CEO, praising his impeccable sense of style instead of asking more pointed questions."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/fawn"
+    },
+    {
+      "word": "forthright",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> characterized by directness in manner or speech; without subtlety or evasion</p>",
+          "definition": "adjective: characterized by directness in manner or speech; without subtlety or evasion",
+          "exampleHtml": "<p>I did not expect the insurance agent to give us any straight answers, but I was pleasantly surprised by how <strong>forthright</strong> he was.</p>",
+          "example": "I did not expect the insurance agent to give us any straight answers, but I was pleasantly surprised by how forthright he was."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/forthright"
+    },
+    {
+      "word": "rile",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> cause annoyance in; disturb, especially by minor irritations</p>",
+          "definition": "verb: cause annoyance in; disturb, especially by minor irritations",
+          "exampleHtml": "<p>Dan is usually calm and balanced, but it takes only one intense glare from Sabrina to <strong>rile</strong> him.</p>",
+          "example": "Dan is usually calm and balanced, but it takes only one intense glare from Sabrina to rile him."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/rile"
+    },
+    {
+      "word": "finagle",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> achieve something by means of trickery or devious methods</p>",
+          "definition": "verb: achieve something by means of trickery or devious methods",
+          "exampleHtml": "<p>Steven was able to <strong>finagle</strong> one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket.</p>",
+          "example": "Steven was able to finagle one of the last seats on the train by convincing the conductor that his torn stub was actually a valid ticket."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/finagle"
+    },
+    {
+      "word": "foolhardy",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by defiant disregard for danger or consequences</p>",
+          "definition": "adjective: marked by defiant disregard for danger or consequences",
+          "exampleHtml": "<p>The police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is <strong>foolhardy</strong>.</p>",
+          "example": "The police regularly face dangerous situations, so for a police officer not to wear his bullet-proof vest is foolhardy."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/foolhardy"
+    },
+    {
+      "word": "insipid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> dull and uninteresting</p>",
+          "definition": "adjective: dull and uninteresting",
+          "exampleHtml": "<p>The movie director was known for hiring beautiful actors in order to deflect attention away from the <strong>insipid</strong> scripts he would typically use.</p>",
+          "example": "The movie director was known for hiring beautiful actors in order to deflect attention away from the insipid scripts he would typically use."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/insipid"
+    },
+    {
+      "word": "cohesive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> well integrated, forming a united whole</p>",
+          "definition": "adjective: well integrated, forming a united whole",
+          "exampleHtml": "<p>A well-written, <strong>cohesive</strong> essay will keep on topic at all times, never losing sight of the main argument.</p>",
+          "example": "A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/cohesive"
+    },
+    {
+      "word": "lethargic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> lacking energy</p>",
+          "definition": "adjective: lacking energy",
+          "exampleHtml": "<p>Nothing can make a person more <strong>lethargic</strong> than a big turkey dinner.</p>",
+          "example": "Nothing can make a person more lethargic than a big turkey dinner."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/lethargic"
+    },
+    {
+      "word": "emulate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> strive to equal or match, especially by imitating; compete with successfully</p>",
+          "definition": "verb: strive to equal or match, especially by imitating; compete with successfully",
+          "exampleHtml": "<p>To really become fluent in a new language, <strong>emulate</strong> the speech patterns of people who speak the language.</p>",
+          "example": "To really become fluent in a new language, emulate the speech patterns of people who speak the language."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/emulate"
+    },
+    {
+      "word": "precarious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> fraught with danger</p>",
+          "definition": "adjective: fraught with danger",
+          "exampleHtml": "<p>People smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more <strong>precarious</strong> than either mountain-climbing or skydiving.</p>",
+          "example": "People smoke to relax and forget their cares, but ironically, in terms of health risks, smoking is far more precarious than either mountain-climbing or skydiving."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/precarious"
+    },
+    {
+      "word": "melancholy",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a deep, long-lasting sadness</p>",
+          "definition": "noun: a deep, long-lasting sadness",
+          "exampleHtml": "<p>Hamlet is a figure of tremendous <strong>melancholy</strong>: he doesn't have a truly cheerful scene throughout the entire play.</p>",
+          "example": "Hamlet is a figure of tremendous melancholy: he doesn't have a truly cheerful scene throughout the entire play."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/melancholy"
+    },
+    {
+      "word": "clemency",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> leniency and compassion shown toward offenders by a person or agency charged with administering justice</p>",
+          "definition": "noun: leniency and compassion shown toward offenders by a person or agency charged with administering justice",
+          "exampleHtml": "<p>In the final moments of the trial, during his closing speech, Phillips was nearly begging the judge for <strong>clemency</strong>.</p>",
+          "example": "In the final moments of the trial, during his closing speech, Phillips was nearly begging the judge for clemency."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/clemency"
+    },
+    {
+      "word": "cerebral",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> involving intelligence rather than emotions or instinct</p>",
+          "definition": "adjective: involving intelligence rather than emotions or instinct",
+          "exampleHtml": "<p>A <strong>cerebral</strong> analysis of most pop music finds it to be simple and childish, but that ignores the point--the music's effect on the listener.</p>",
+          "example": "A cerebral analysis of most pop music finds it to be simple and childish, but that ignores the point--the music's effect on the listener."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/cerebral"
+    },
+    {
+      "word": "industrious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> characterized by hard work and perseverance</p>",
+          "definition": "adjective: characterized by hard work and perseverance",
+          "exampleHtml": "<p>Pete was an <strong>industrious</strong> student, completing every assignment thoroughly and on time.</p>",
+          "example": "Pete was an industrious student, completing every assignment thoroughly and on time."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/industrious"
+    },
+    {
+      "word": "evenhanded",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> without partiality</p>",
+          "definition": "adjective: without partiality",
+          "exampleHtml": "<p>Teachers often have trouble being <strong>evenhanded</strong> to all of their varied students.</p>",
+          "example": "Teachers often have trouble being evenhanded to all of their varied students."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/evenhanded"
+    },
+    {
+      "word": "preempt",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> take the place of or have precedence over</p>",
+          "definition": "verb: take the place of or have precedence over",
+          "exampleHtml": "<p>A governmental warning about an imminent terrorist attack would <strong>preempt</strong> ordinary network programming on television.</p>",
+          "example": "A governmental warning about an imminent terrorist attack would preempt ordinary network programming on television."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/preempt"
+    },
+    {
+      "word": "avert",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> turn away</p>",
+          "definition": "verb: turn away",
+          "exampleHtml": "<p>Afraid to see the aftermath of the car crash, I <strong>averted</strong> my eyes as we drove by.</p>",
+          "example": "Afraid to see the aftermath of the car crash, I averted my eyes as we drove by."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> ward off or prevent</p>",
+          "definition": "verb: ward off or prevent",
+          "exampleHtml": "<p>The struggling video game company put all of its finances into one final, desperate project to <strong>avert</strong> bankruptcy.</p>",
+          "example": "The struggling video game company put all of its finances into one final, desperate project to avert bankruptcy."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/avert"
+    },
+    {
+      "word": "belittle",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> lessen the importance, dignity, or reputation of</p>",
+          "definition": "verb: lessen the importance, dignity, or reputation of",
+          "exampleHtml": "<p>A good teacher will never <strong>belittle</strong> his students, but will instead empower them.</p>",
+          "example": "A good teacher will never belittle his students, but will instead empower them."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/belittle"
+    },
+    {
+      "word": "prevail",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> be widespread in a particular area at a particular time; be current:</p>",
+          "definition": "verb: be widespread in a particular area at a particular time; be current:",
+          "exampleHtml": "<p>During the labor negotiations, an air of hostility <strong>prevailed</strong> in the office.</p>",
+          "example": "During the labor negotiations, an air of hostility prevailed in the office."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> prove superior</p>",
+          "definition": "verb: prove superior",
+          "exampleHtml": "<p>Before the cricket match, Australia was heavily favored, but India <strong>prevailed</strong>.</p>",
+          "example": "Before the cricket match, Australia was heavily favored, but India prevailed."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/prevail"
+    },
+    {
+      "word": "consecrate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to make holy or set apart for a high purpose</p>",
+          "definition": "verb: to make holy or set apart for a high purpose",
+          "exampleHtml": "<p>At the church of Notre Dame in France, the new High Altar was <strong>consecrated</strong> in 1182.</p>",
+          "example": "At the church of Notre Dame in France, the new High Altar was consecrated in 1182."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-6/consecrate"
+    }
+  ]
+}

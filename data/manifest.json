@@ -1,0 +1,86 @@
+{
+  "source": "https://gre.magoosh.com/flashcards/vocabulary/decks",
+  "extractedAt": "2026-11-07T04:11:22.060Z",
+  "decks": [
+    {
+      "name": "Common Words I",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/high-frequency-words"
+    },
+    {
+      "name": "Common Words II",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-2"
+    },
+    {
+      "name": "Common Words III",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-3"
+    },
+    {
+      "name": "Common Words IV",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-4"
+    },
+    {
+      "name": "Common Words V",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-5"
+    },
+    {
+      "name": "Common Words VI",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-6"
+    },
+    {
+      "name": "Common VII",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-vii"
+    },
+    {
+      "name": "Basic I",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-i"
+    },
+    {
+      "name": "Basic II",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-ii"
+    },
+    {
+      "name": "Basic III",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-3"
+    },
+    {
+      "name": "Basic IV",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-4"
+    },
+    {
+      "name": "Basic V",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-5"
+    },
+    {
+      "name": "Basic VI",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-6"
+    },
+    {
+      "name": "Basic VII",
+      "expected": 51,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-7"
+    },
+    {
+      "name": "Basic VIII",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-viii"
+    },
+    {
+      "name": "Basic IX",
+      "expected": 50,
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-ix"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "word": "intrinsic",
+  "source": "https://en.wiktionary.org/wiki/intrinsic",
+  "etymologies": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "From Middle French intrinsèque, from Latin intrīnsecus (“on the inside, inwardly”), from *intrim, an assumed adverbial form of inter (“within”) + secus (“by, on the side”)."
+      ],
+      "senses": [
+        "Innate, inherent, inseparable from the thing itself, essential.",
+        "(physics, of a variable) With a quantity that does not depend on the amount of matter present",
+        "(computing, programming) A built-in function that is implemented directly by the compiler, without any intermediate call to a library.",
+        "(video games) An ability possessed by a character and not requiring any external equipment."
+      ]
+    }
+  ]
+}

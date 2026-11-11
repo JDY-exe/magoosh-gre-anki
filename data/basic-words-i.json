@@ -1,0 +1,625 @@
+{
+  "name": "Basic I",
+  "expected": 50,
+  "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-i",
+  "cards": [
+    {
+      "word": "telltale",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> revealing</p>",
+          "definition": "adjective: revealing",
+          "exampleHtml": "<p>The many <strong>telltale</strong> signs of chronic smoking include yellow teeth, and a persistent, hacking cough.</p>",
+          "example": "The many telltale signs of chronic smoking include yellow teeth, and a persistent, hacking cough."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/telltale"
+    },
+    {
+      "word": "dupe",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to trick or swindle</p>",
+          "definition": "verb: to trick or swindle",
+          "exampleHtml": "<p>Once again a get-rich-fast Internet scheme had <strong>duped</strong> Harold into submitting a $5,000 check to a sham operation. </p>",
+          "example": "Once again a get-rich-fast Internet scheme had duped Harold into submitting a $5,000 check to a sham operation."
+        },
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who is easily tricked or swindled</p>",
+          "definition": "noun: a person who is easily tricked or swindled",
+          "exampleHtml": "<p>The charlatan mistook the crowd for a bunch of <strong>dupes</strong>, but the crowd was quickly on to him and decried his bald-faced attempt to bilk them. </p>",
+          "example": "The charlatan mistook the crowd for a bunch of dupes, but the crowd was quickly on to him and decried his bald-faced attempt to bilk them."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/dupe"
+    },
+    {
+      "word": "censor",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to examine and remove objectionable material</p>",
+          "definition": "verb: to examine and remove objectionable material",
+          "exampleHtml": "<p>Every fall, high school English teachers are inundated by requests to <strong>censor</strong> their curriculum by removing The Catcher in the Rye and Scarlet Letter from their reading lists.</p>",
+          "example": "Every fall, high school English teachers are inundated by requests to censor their curriculum by removing The Catcher in the Rye and Scarlet Letter from their reading lists."
+        },
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an official who censors material</p>",
+          "definition": "noun: an official who censors material",
+          "exampleHtml": "<p>The <strong>censor</strong> insisted that every reference to drugs should be removed from the manuscript.</p>",
+          "example": "The censor insisted that every reference to drugs should be removed from the manuscript."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/censor"
+    },
+    {
+      "word": "indict",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to formally charge or accuse of wrong-doing</p>",
+          "definition": "verb: to formally charge or accuse of wrong-doing",
+          "exampleHtml": "<p>The bankrobber was <strong>indicted</strong> on several major charges, including possession of a firearm. </p>",
+          "example": "The bankrobber was indicted on several major charges, including possession of a firearm."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/indict"
+    },
+    {
+      "word": "err",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to make an error</p>",
+          "definition": "verb: to make an error",
+          "exampleHtml": "<p>He <strong>erred</strong> in thinking that \"indigent\" and \"indignant\" were synonyms.</p>",
+          "example": "He erred in thinking that \"indigent\" and \"indignant\" were synonyms."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/err"
+    },
+    {
+      "word": "tender",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> offer up something formally</p>",
+          "definition": "verb: offer up something formally",
+          "exampleHtml": "<p>The government was loath to <strong>tender</strong> more money in the fear that it might set off inflation. </p>",
+          "example": "The government was loath to tender more money in the fear that it might set off inflation."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/tender"
+    },
+    {
+      "word": "affluent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> wealthy</p>",
+          "definition": "adjective: wealthy",
+          "exampleHtml": "<p>The center of the city had sadly become a pit of penury, while, only five miles away, multi-million dollar homes spoke of <strong>affluence</strong>.</p>",
+          "example": "The center of the city had sadly become a pit of penury, while, only five miles away, multi-million dollar homes spoke of affluence."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/affluent"
+    },
+    {
+      "word": "indigenous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> originating in a certain area</p>",
+          "definition": "adjective: originating in a certain area",
+          "exampleHtml": "<p>The plants and animals <strong>indigenous</strong> to Australia are notably different from those <strong>indigenous</strong> to the U.S—one look at a duckbill platypus and you know you’re not dealing with an opossum.</p>",
+          "example": "The plants and animals indigenous to Australia are notably different from those indigenous to the U.S—one look at a duckbill platypus and you know you’re not dealing with an opossum."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/indigenous"
+    },
+    {
+      "word": "macabre",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> suggesting the horror of death and decay; gruesome</p>",
+          "definition": "adjective: suggesting the horror of death and decay; gruesome",
+          "exampleHtml": "<p>Edgar Allen Poe was considered the master of the <strong>macabre</strong>; his stories vividly describe the moment leading up to—and often those moments after—a grisly death.</p>",
+          "example": "Edgar Allen Poe was considered the master of the macabre; his stories vividly describe the moment leading up to—and often those moments after—a grisly death."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/macabre"
+    },
+    {
+      "word": "variance",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the quality of being different</p>",
+          "definition": "noun: the quality of being different",
+          "exampleHtml": "<p>The cynic quipped, “There is not much <strong>variance</strong> in politicians; they all seem to lie”.</p>",
+          "example": "The cynic quipped, “There is not much variance in politicians; they all seem to lie”."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/variance"
+    },
+    {
+      "word": "serendipity",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the instance in which an accidental, fortunate discovery is made</p>",
+          "definition": "noun: the instance in which an accidental, fortunate discovery is made",
+          "exampleHtml": "<p>By pure <strong>serendipity</strong>, Sarah discovered, at a flea market in Peoria, a matching earring to replace the one that fell down the storm drain back home.  </p>",
+          "example": "By pure serendipity, Sarah discovered, at a flea market in Peoria, a matching earring to replace the one that fell down the storm drain back home."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/serendipity"
+    },
+    {
+      "word": "diabolical",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be extremely wicked like the devil</p>",
+          "definition": "adjective: to be extremely wicked like the devil",
+          "exampleHtml": "<p>The conspirators, willing to dispatch anyone who stood in their way, hatched a <strong>diabolical</strong> plan to take over the city.</p>",
+          "example": "The conspirators, willing to dispatch anyone who stood in their way, hatched a diabolical plan to take over the city."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/diabolical"
+    },
+    {
+      "word": "embroiled",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> involved in argument or contention</p>",
+          "definition": "verb: involved in argument or contention",
+          "exampleHtml": "<p>These days we are never short of a D.C. politician <strong>embroiled</strong> in scandal—a welcome phenomenon for those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into a fresh one.</p>",
+          "example": "These days we are never short of a D.C. politician embroiled in scandal—a welcome phenomenon for those who, having barely finished feasting on the sordid details of one imbroglio, can sink their teeth into a fresh one."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/embroiled"
+    },
+    {
+      "word": "bleak",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having a depressing or gloomy outlook</p>",
+          "definition": "adjective: having a depressing or gloomy outlook",
+          "exampleHtml": "<p>Unremitting overcast skies tend to lead people to create <strong>bleak</strong> literature and lugubrious music — compare England’s band Radiohead to any band from Southern California. </p>",
+          "example": "Unremitting overcast skies tend to lead people to create bleak literature and lugubrious music — compare England’s band Radiohead to any band from Southern California."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/bleak"
+    },
+    {
+      "word": "thoroughgoing",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> very thorough; complete</p>",
+          "definition": "adjective: very thorough; complete",
+          "exampleHtml": "<p>As a <strong>thoroughgoing</strong> bibliophile, one who had turned his house into a veritable library, he shocked his friends when he bought a Kindle.</p>",
+          "example": "As a thoroughgoing bibliophile, one who had turned his house into a veritable library, he shocked his friends when he bought a Kindle."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/thoroughgoing"
+    },
+    {
+      "word": "affable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> likeable; easy to talk to</p>",
+          "definition": "adjective: likeable; easy to talk to",
+          "exampleHtml": "<p>For all his surface <strong>affability</strong>, Marco was remarkably glum when he wasn’t around other people. </p>",
+          "example": "For all his surface affability, Marco was remarkably glum when he wasn’t around other people."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/affable"
+    },
+    {
+      "word": "screed",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an abusive rant (often tedious)</p>",
+          "definition": "noun: an abusive rant (often tedious)",
+          "exampleHtml": "<p>Joey had difficulty hanging out with his former best friend Perry, who, during his entire cup of coffee, enumerated all of the government’s deficiencies--only to break ranks and launch into some <strong>screed</strong> against big business. </p>",
+          "example": "Joey had difficulty hanging out with his former best friend Perry, who, during his entire cup of coffee, enumerated all of the government’s deficiencies--only to break ranks and launch into some screed against big business."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/screed"
+    },
+    {
+      "word": "candid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> straightforward and honest</p>",
+          "definition": "adjective: straightforward and honest",
+          "exampleHtml": "<p>Even with a perfect stranger, Charles was always <strong>candid</strong> and would rarely hold anything back.</p>",
+          "example": "Even with a perfect stranger, Charles was always candid and would rarely hold anything back."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/candid"
+    },
+    {
+      "word": "acme",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the highest point of achievement</p>",
+          "definition": "noun: the highest point of achievement",
+          "exampleHtml": "<p>The new Cessna airplanes will be the <strong>acme</strong> of comfort, offering reclining seats and ample legroom. </p>",
+          "example": "The new Cessna airplanes will be the acme of comfort, offering reclining seats and ample legroom."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/acme"
+    },
+    {
+      "word": "pine",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to yearn for</p>",
+          "definition": "verb: to yearn for",
+          "exampleHtml": "<p>Standing forlornly by the window, she <strong>pined</strong> for her lost love.</p>",
+          "example": "Standing forlornly by the window, she pined for her lost love."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/pine"
+    },
+    {
+      "word": "amiable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> friendly</p>",
+          "definition": "adjective: friendly",
+          "exampleHtml": "<p>Amy’s name was very apt: she was so <strong>amiable</strong> that she was twice voted class president.</p>",
+          "example": "Amy’s name was very apt: she was so amiable that she was twice voted class president."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/amiable"
+    },
+    {
+      "word": "retiring",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be shy, and to be inclined to retract from company</p>",
+          "definition": "adjective: to be shy, and to be inclined to retract from company",
+          "exampleHtml": "<p>Nelson was always the first to leave soirees—rather than mill about with “fashionable” folk, he was <strong>retiring</strong>, and preferred the solitude of his garret.</p>",
+          "example": "Nelson was always the first to leave soirees—rather than mill about with “fashionable” folk, he was retiring, and preferred the solitude of his garret."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/retiring"
+    },
+    {
+      "word": "thrifty",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> spending money wisely</p>",
+          "definition": "adjective: spending money wisely",
+          "exampleHtml": "<p>He was economical, spending his money <strong>thriftily</strong> and on items considered essential.</p>",
+          "example": "He was economical, spending his money thriftily and on items considered essential."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/thrifty"
+    },
+    {
+      "word": "demean",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to insult; to cause someone to lose dignity or respect</p>",
+          "definition": "verb: to insult; to cause someone to lose dignity or respect",
+          "exampleHtml": "<p>At first the soccer players bantered back and forth, but as soon as one of the players became <strong>demeaning</strong>, calling the other's mother a water buffalo, the ref whipped out a red card.</p>",
+          "example": "At first the soccer players bantered back and forth, but as soon as one of the players became demeaning, calling the other's mother a water buffalo, the ref whipped out a red card."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/demean"
+    },
+    {
+      "word": "inundate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to flood or overwhelm</p>",
+          "definition": "verb: to flood or overwhelm",
+          "exampleHtml": "<p>The newsroom was <strong>inundated</strong> with false reports that only made it more difficult for the newscasters to provide an objective account of the bank robbery.</p>",
+          "example": "The newsroom was inundated with false reports that only made it more difficult for the newscasters to provide an objective account of the bank robbery."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/inundate"
+    },
+    {
+      "word": "miser",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who doesn't like to spend money (because they are greedy)</p>",
+          "definition": "noun: a person who doesn't like to spend money (because they are greedy)",
+          "exampleHtml": "<p>Monte was no <strong>miser</strong>, but was simply frugal, wisely spending the little that he earned.</p>",
+          "example": "Monte was no miser, but was simply frugal, wisely spending the little that he earned."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/miser"
+    },
+    {
+      "word": "spendthrift",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> one who spends money extravagantly</p>",
+          "definition": "noun: one who spends money extravagantly",
+          "exampleHtml": "<p>Taking weekly trips to Vegas, Megan was a <strong>spendthrift</strong> whose excesses eventually caught up to her. </p>",
+          "example": "Taking weekly trips to Vegas, Megan was a spendthrift whose excesses eventually caught up to her."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/spendthrift"
+    },
+    {
+      "word": "reprobate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person without morals who is disapproved of</p>",
+          "definition": "noun: a person without morals who is disapproved of",
+          "exampleHtml": "<p>Mr. Smith’s two boys couldn’t be more different; one was a hard-working and principled, the other was the town <strong>reprobate</strong>, always having run-ins with the law.</p>",
+          "example": "Mr. Smith’s two boys couldn’t be more different; one was a hard-working and principled, the other was the town reprobate, always having run-ins with the law."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/reprobate"
+    },
+    {
+      "word": "hound",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to pursue relentlessly</p>",
+          "definition": "verb: to pursue relentlessly",
+          "exampleHtml": "<p>An implacable foe of corruption, Eliot Ness <strong>hounded</strong> out graft in all forms—he even helped nab Al Capone.</p>",
+          "example": "An implacable foe of corruption, Eliot Ness hounded out graft in all forms—he even helped nab Al Capone."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/hound"
+    },
+    {
+      "word": "telling",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> significant and revealing of another factor</p>",
+          "definition": "adjective: significant and revealing of another factor",
+          "exampleHtml": "<p>Her unbecoming dress was very <strong>telling</strong> when it came to her sense of fashion.</p>",
+          "example": "Her unbecoming dress was very telling when it came to her sense of fashion."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/telling"
+    },
+    {
+      "word": "pinnacle",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the highest point</p>",
+          "definition": "noun: the highest point",
+          "exampleHtml": "<p>At its <strong>pinnacle</strong>, the Roman Empire extended across most of the landmass of Eurasia, a feat not paralleled to the rise of the British Empire in the 18th and 19th century.</p>",
+          "example": "At its pinnacle, the Roman Empire extended across most of the landmass of Eurasia, a feat not paralleled to the rise of the British Empire in the 18th and 19th century."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/pinnacle"
+    },
+    {
+      "word": "profuse",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> plentiful; pouring out in abundance</p>",
+          "definition": "adjective: plentiful; pouring out in abundance",
+          "exampleHtml": "<p>During mile 20 of the Hawaii Marathon, Dwayne was sweating so <strong>profusely</strong> that he stopped to take off \nhis shirt, and ran the remaining six miles wearing nothing more than skimpy shorts.</p>",
+          "example": "During mile 20 of the Hawaii Marathon, Dwayne was sweating so profusely that he stopped to take off \nhis shirt, and ran the remaining six miles wearing nothing more than skimpy shorts."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/profuse"
+    },
+    {
+      "word": "mesmerize",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to spellbind or enthrall</p>",
+          "definition": "verb: to spellbind or enthrall",
+          "exampleHtml": "<p>The plot and the characters were so well developed that many viewers were <strong>mesmerized</strong>, unable to move their eyes from the screen for even a single second.</p>",
+          "example": "The plot and the characters were so well developed that many viewers were mesmerized, unable to move their eyes from the screen for even a single second."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/mesmerize"
+    },
+    {
+      "word": "voracious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> very hungry; approaching an activity with gusto</p>",
+          "definition": "adjective: very hungry; approaching an activity with gusto",
+          "exampleHtml": "<p>Steven was a <strong>voracious</strong> reader, sometimes finishing two novels in the same day.</p>",
+          "example": "Steven was a voracious reader, sometimes finishing two novels in the same day."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/voracious"
+    },
+    {
+      "word": "inflammatory",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> extremely controversial, incendiary</p>",
+          "definition": "adjective: extremely controversial, incendiary",
+          "exampleHtml": "<p>It only takes one person to leave an <strong>inflammatory</strong> comment on an Internet thread for that thread to blow up into pages upon pages of reader indignation. </p>",
+          "example": "It only takes one person to leave an inflammatory comment on an Internet thread for that thread to blow up into pages upon pages of reader indignation."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/inflammatory"
+    },
+    {
+      "word": "peruse",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to read very carefully</p>",
+          "definition": "verb: to read very carefully",
+          "exampleHtml": "<p>Instead of <strong>perusing</strong> important documents, people all too often rush to the bottom of the page and plaster their signatures at the bottom.</p>",
+          "example": "Instead of perusing important documents, people all too often rush to the bottom of the page and plaster their signatures at the bottom."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/peruse"
+    },
+    {
+      "word": "remiss",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be negligent in one’s duty</p>",
+          "definition": "adjective: to be negligent in one’s duty",
+          "exampleHtml": "<p><strong>Remiss</strong> in his duty to keep the school functioning efficiently, the principal was relieved of his position after only three months.</p>",
+          "example": "Remiss in his duty to keep the school functioning efficiently, the principal was relieved of his position after only three months."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/remiss"
+    },
+    {
+      "word": "indignant",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> feeling anger over a perceived injustice</p>",
+          "definition": "adjective: feeling anger over a perceived injustice",
+          "exampleHtml": "<p>When the cyclist swerved into traffic, it forced the driver to brake and elicited an <strong>indignant</strong> shout of \"Hey, punk, watch where you're going!\"</p>",
+          "example": "When the cyclist swerved into traffic, it forced the driver to brake and elicited an indignant shout of \"Hey, punk, watch where you're going!\""
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/indignant"
+    },
+    {
+      "word": "unnerve",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to make nervous or upset</p>",
+          "definition": "verb: to make nervous or upset",
+          "exampleHtml": "<p>At one time <strong>unnerved</strong> by math problems, she began avidly “Magoosh-ing”, and soon became adept at even combinations and permutations questions.</p>",
+          "example": "At one time unnerved by math problems, she began avidly “Magoosh-ing”, and soon became adept at even combinations and permutations questions."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/unnerve"
+    },
+    {
+      "word": "summit",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the peak or highest point</p>",
+          "definition": "noun: the peak or highest point",
+          "exampleHtml": "<p>After hiking for seven days, the climbers finally reached the <strong>summit</strong> of Mount Kilimanjaro.</p>",
+          "example": "After hiking for seven days, the climbers finally reached the summit of Mount Kilimanjaro."
+        },
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a meeting of high-level leaders</p>",
+          "definition": "noun: a meeting of high-level leaders",
+          "exampleHtml": "<p>Since climate change policy has been mired in congressional fighting, this <strong>summit</strong> should help set the goals for president's next term.</p>",
+          "example": "Since climate change policy has been mired in congressional fighting, this summit should help set the goals for president's next term."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/summit"
+    },
+    {
+      "word": "erratic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> unpredictable; strange and unconventional</p>",
+          "definition": "adjective: unpredictable; strange and unconventional",
+          "exampleHtml": "<p>It came as no surprise to pundits that the President’s attempt at re-election floundered; even during his term, support for his policies was <strong>erratic</strong>, with an approval rating jumping anywhere from 30 to 60 percent. </p>",
+          "example": "It came as no surprise to pundits that the President’s attempt at re-election floundered; even during his term, support for his policies was erratic, with an approval rating jumping anywhere from 30 to 60 percent."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/erratic"
+    },
+    {
+      "word": "insolvent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> unable to pay one's bills; bankrupt</p>",
+          "definition": "adjective: unable to pay one's bills; bankrupt",
+          "exampleHtml": "<p>With credit card bills skyrocketing, a shockingly large number of Americans are truly <strong>insolvent</strong>.</p>",
+          "example": "With credit card bills skyrocketing, a shockingly large number of Americans are truly insolvent."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/insolvent"
+    },
+    {
+      "word": "underwrite",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to support financially</p>",
+          "definition": "verb: to support financially",
+          "exampleHtml": "<p>The latest symphony broadcast was made possible with <strong>underwriting</strong> from the Carnegie Endowment.</p>",
+          "example": "The latest symphony broadcast was made possible with underwriting from the Carnegie Endowment."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/underwrite"
+    },
+    {
+      "word": "slapdash",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> carelessly and hastily put together</p>",
+          "definition": "adjective: carelessly and hastily put together",
+          "exampleHtml": "<p>The office building had been constructed in a <strong>slapdash</strong> manner, so it did not surprise officials when, during a small earthquake, a large crack emerged on the façade of the building.</p>",
+          "example": "The office building had been constructed in a slapdash manner, so it did not surprise officials when, during a small earthquake, a large crack emerged on the façade of the building."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/slapdash"
+    },
+    {
+      "word": "demure",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to be modest and shy</p>",
+          "definition": "adjective: to be modest and shy",
+          "exampleHtml": "<p>The portrait of her in a simple white blouse was sweet and <strong>demure</strong>.</p>",
+          "example": "The portrait of her in a simple white blouse was sweet and demure."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/demure"
+    },
+    {
+      "word": "stipend",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a regular allowance (of money)</p>",
+          "definition": "noun: a regular allowance (of money)",
+          "exampleHtml": "<p>He was hoping for a monthly allowance loan from the government, but after no such <strong>stipend</strong> was forthcoming he realized he would have to seek other means of paying for his college tuition. </p>",
+          "example": "He was hoping for a monthly allowance loan from the government, but after no such stipend was forthcoming he realized he would have to seek other means of paying for his college tuition."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/stipend"
+    },
+    {
+      "word": "vindictive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> to have a very strong desire for revenge</p>",
+          "definition": "adjective: to have a very strong desire for revenge",
+          "exampleHtml": "<p>Though the other girl had only lightly poked fun of Vanessa's choice in attire, Vanessa was so <strong>vindictive</strong> that she waited for an entire semester to get the perfect revenge. </p>",
+          "example": "Though the other girl had only lightly poked fun of Vanessa's choice in attire, Vanessa was so vindictive that she waited for an entire semester to get the perfect revenge."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/vindictive"
+    },
+    {
+      "word": "tirade",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an angry speech</p>",
+          "definition": "noun: an angry speech",
+          "exampleHtml": "<p>In terms of political change, a <strong>tirade</strong> oftentimes does little more than make the person speaking red in the face.</p>",
+          "example": "In terms of political change, a tirade oftentimes does little more than make the person speaking red in the face."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/tirade"
+    },
+    {
+      "word": "dog",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to pursue relentlessly; to hound</p>",
+          "definition": "verb: to pursue relentlessly; to hound",
+          "exampleHtml": "<p>Throughout his life, he was <strong>dogged</strong> by insecurities that inhibited personal growth.</p>",
+          "example": "Throughout his life, he was dogged by insecurities that inhibited personal growth."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/dog"
+    },
+    {
+      "word": "zenith",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the highest point; culmination</p>",
+          "definition": "noun: the highest point; culmination",
+          "exampleHtml": "<p>At the <strong>zenith</strong> of his artistic career, Elvis was outselling any other artist on the charts.</p>",
+          "example": "At the zenith of his artistic career, Elvis was outselling any other artist on the charts."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-i/zenith"
+    }
+  ]
+}

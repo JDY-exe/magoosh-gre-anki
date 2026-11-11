@@ -1,0 +1,39 @@
+{
+  "word": "arch",
+  "source": "https://en.wiktionary.org/wiki/arch",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "From Middle English arch, arche, from Old French arche (“an arch”), a feminine form of arc, from Latin arcus (“a bow, arc, arch”). Doublet of arc and arco. Displaced native Old English bīeġels and Old English hwealf."
+      ],
+      "senses": [
+        "",
+        "An inverted U shape.",
+        "(transitive) To form into an arch shape.",
+        "(transitive) To cover with an arch or arches."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "From the prefix arch-. \"Principal\" is the original sense; \"mischievous\" is via onetime frequent collocation with rogue, knave, etc."
+      ],
+      "senses": [
+        "",
+        "Knowing, clever, mischievous.",
+        "(obsolete) A chief.",
+        "(video games) Synonym of god (“person who owns and runs a multi-user dungeon”)."
+      ]
+    },
+    {
+      "heading": "Etymology 3",
+      "paragraphs": [
+        "Clipping of architecture."
+      ],
+      "senses": [
+        "(electronics, operating systems) An architecture; a computer architecture or instruction set architecture."
+      ]
+    }
+  ]
+}

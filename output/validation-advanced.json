@@ -1,0 +1,46 @@
+{
+  "notes": 451,
+  "cards": 451,
+  "vocabularyWithEtymology": 451,
+  "leafSubdecks": 9,
+  "mediaRequired": false,
+  "validation": "passed",
+  "decks": [
+    {
+      "name": "Magoosh GRE::Advanced::01 - Advanced I",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::02 - Advanced II",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::03 - Advanced III",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::04 - Advanced IV",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Advanced::05 - Advanced V",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::06 - Advanced VI",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::07 - Advanced VII",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::08 - Advanced VIII",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Advanced::09 - Advanced IX",
+      "cards": 50
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "word": "hail",
+  "source": "https://en.wiktionary.org/wiki/hail",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "From Middle English hayl, haul, from Old English hæġl, hæġel, hagol (“hail”), from Proto-West Germanic *hagl, from Proto-Germanic *haglaz, of uncertain origin. Either from Proto-Indo-European *kagʰlos (“pebble”); or alternatively from *ḱoḱló-, a reduplication of *ḱel- (“cold”). Cognate with Saterland Frisian Hail (“hail”), West Frisian heil (“hail”), Low German Hagel (“hail”), German Hagel (“hail”), Dutch and Swedish hagel (“hail”), Danish, Norwegian Bokmål, Norwegian Nynorsk, and Icelandic hagl (“hail”). Compare also Old Norse héla (“frost”). Doublet of haglaz, if the second etymology (“cold”) is correct.",
+        "Root-cognates outside of Germanic include Ancient Greek κάχληξ (kákhlēx, “pebble”), or alternatively Sanskrit शिशिर (śíśira, “cool, cold”), possibly also Lithuanian šešėlis (“shade, shadow”), depending on the etymology."
+      ],
+      "senses": [
+        "(meteorology, uncountable) Balls or pieces of ice falling as precipitation, often in connection with a thunderstorm.",
+        "(meteorology, countable) An occurrence of this type of precipitation; a hailstorm."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "From Middle English haylen, haulien, hawelien, from Old English hagolian, hagalian (“to hail”), from Proto-West Germanic *haglōn, from Proto-Germanic *haglōną (“to hail”), from the noun (see above). Cognate with Saterland Frisian hailje (“to hail”), West Frisian heilje (“to hail”), Dutch hagelen (“to hail”), German Low German hageln (“to hail”), German hageln (“to hail”), Danish hagle (“to hail”), Swedish hagla (“to hail”), Norwegian Nynorsk hagle, hagla (“to hail”), Faroese hegla (“to hail”), Icelandic hagla (“to hail”)."
+      ],
+      "senses": [
+        "(impersonal) To have hailstones fall from the sky.",
+        "(intransitive) To send or release hail."
+      ]
+    },
+    {
+      "heading": "Etymology 3",
+      "paragraphs": [
+        "From Middle English heyl (“healthy, sound”), from Old Norse heill, from Proto-Germanic *hailaz (“whole, entire, healthy”). The verb is from Middle English heilen, itself from the adjective. Doublet of whole, hale, and heil."
+      ],
+      "senses": [
+        "(obsolete) Healthy; whole; safe.",
+        "(transitive) To greet; give salutation to; salute.",
+        "(transitive) To name; to designate; to call.",
+        "(archaic or literary) An exclamation of respectful or reverent salutation, or, occasionally, of familiar greeting.",
+        "(archaic or literary) A wish of health; a salutation; a loud call."
+      ]
+    }
+  ]
+}

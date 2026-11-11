@@ -1,0 +1,74 @@
+{
+  "notes": 807,
+  "cards": 807,
+  "vocabularyWithEtymology": 800,
+  "leafSubdecks": 16,
+  "mediaRequired": false,
+  "validation": "passed",
+  "decks": [
+    {
+      "name": "Magoosh GRE::Common Words::01 - Common Words I",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Common Words::02 - Common Words II",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Common Words::03 - Common Words III",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Common Words::04 - Common Words IV",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Common Words::05 - Common Words V",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Common Words::06 - Common Words VI",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Common Words::07 - Common VII",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::01 - Basic I",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::02 - Basic II",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::03 - Basic III",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::04 - Basic IV",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::05 - Basic V",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::06 - Basic VI",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::07 - Basic VII",
+      "cards": 51
+    },
+    {
+      "name": "Magoosh GRE::Basic::08 - Basic VIII",
+      "cards": 50
+    },
+    {
+      "name": "Magoosh GRE::Basic::09 - Basic IX",
+      "cards": 50
+    }
+  ]
+}

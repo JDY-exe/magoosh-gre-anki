@@ -1,0 +1,26 @@
+{
+  "packages": {
+    "Magoosh_GRE_through_Basic_IX": {
+      "cards": 807,
+      "withEtymology": 800,
+      "subdecks": 16
+    },
+    "Magoosh_GRE_Advanced": {
+      "cards": 451,
+      "withEtymology": 451,
+      "subdecks": 9
+    },
+    "Magoosh_GRE_All_Levels": {
+      "cards": 1251,
+      "withEtymology": 1251,
+      "subdecks": 25
+    }
+  },
+  "identicalVocabularyNoteGuidsAcrossPackages": true,
+  "definitionsAndExamplesVerifiedAgainstExtraction": true,
+  "originsVerifiedAgainstReviewedRecords": true,
+  "sameNoteTypeAndStyle": true,
+  "recallPromptRemoved": true,
+  "originsCollapsedByDefault": true,
+  "runningAnkiCollectionModified": false
+}

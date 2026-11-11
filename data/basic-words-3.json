@@ -1,0 +1,643 @@
+{
+  "name": "Basic III",
+  "expected": 50,
+  "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-3",
+  "cards": [
+    {
+      "word": "fete",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to celebrate a person</p>",
+          "definition": "verb: to celebrate a person",
+          "exampleHtml": "<p>After World War II, war heroes were <strong>feted</strong> at first but quickly forgotten.</p>",
+          "example": "After World War II, war heroes were feted at first but quickly forgotten."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/fete"
+    },
+    {
+      "word": "appreciable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> large enough to be noticed (usu. refers to an amount)</p>",
+          "definition": "adjective: large enough to be noticed (usu. refers to an amount)",
+          "exampleHtml": "<p>There is an <strong>appreciable</strong> difference between those who say they can get the job done and those who actually get the job done.</p>",
+          "example": "There is an appreciable difference between those who say they can get the job done and those who actually get the job done."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/appreciable"
+    },
+    {
+      "word": "resolve",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> reach a conclusion after a discussion or deliberation</p>",
+          "definition": "verb: reach a conclusion after a discussion or deliberation",
+          "exampleHtml": "<p>After much thought, Ted <strong>resolved</strong> not to travel abroad this summer because he didn't have much money in his bank account.</p>",
+          "example": "After much thought, Ted resolved not to travel abroad this summer because he didn't have much money in his bank account."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/resolve"
+    },
+    {
+      "word": "obdurate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> unable to be persuaded or moved emotionally; stubborn; unyielding.</p>",
+          "definition": "adjective: unable to be persuaded or moved emotionally; stubborn; unyielding.",
+          "exampleHtml": "<p>No number of pleas and bribes would get him to change his <strong>obdurate</strong> attitude.</p>",
+          "example": "No number of pleas and bribes would get him to change his obdurate attitude."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/obdurate"
+    },
+    {
+      "word": "jocular",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> characterized by jokes and good humor</p>",
+          "definition": "adjective: characterized by jokes and good humor",
+          "exampleHtml": "<p>My uncle was always in a <strong>jocular</strong> mood at family gatherings, messing up people's hair and telling knock-knock jokes to anyone who would listen.</p>",
+          "example": "My uncle was always in a jocular mood at family gatherings, messing up people's hair and telling knock-knock jokes to anyone who would listen."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/jocular"
+    },
+    {
+      "word": "ornate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by elaborate rhetoric and elaborated with decorative details</p>",
+          "definition": "adjective: marked by elaborate rhetoric and elaborated with decorative details",
+          "exampleHtml": "<p>The <strong>ornate</strong> Victorian and Edwardian homes spread throughout San Francisco are my favorite part of the city.</p>",
+          "example": "The ornate Victorian and Edwardian homes spread throughout San Francisco are my favorite part of the city."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/ornate"
+    },
+    {
+      "word": "respite",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a pause from doing something (as work)</p>",
+          "definition": "noun: a pause from doing something (as work)",
+          "exampleHtml": "<p>Every afternoon, the small company has a <strong>respite</strong> in which workers play foosball or board games.</p>",
+          "example": "Every afternoon, the small company has a respite in which workers play foosball or board games."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/respite"
+    },
+    {
+      "word": "degrade",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> reduce in worth or character, usually verbally</p>",
+          "definition": "verb: reduce in worth or character, usually verbally",
+          "exampleHtml": "<p>Jesse had mockingly pointed out all of Nancy's faults in front of their friends, publicly <strong>degrading</strong> the poor girl.</p>",
+          "example": "Jesse had mockingly pointed out all of Nancy's faults in front of their friends, publicly degrading the poor girl."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/degrade"
+    },
+    {
+      "word": "dearth",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a lack or shortage</p>",
+          "definition": "noun: a lack or shortage",
+          "exampleHtml": "<p>I am surprised by the <strong>dearth</strong> of fast food chains; this is America and I assumed they were on every street.</p>",
+          "example": "I am surprised by the dearth of fast food chains; this is America and I assumed they were on every street."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/dearth"
+    },
+    {
+      "word": "plodding",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (of movement) slow and laborious</p>",
+          "definition": "adjective: (of movement) slow and laborious",
+          "exampleHtml": "<p>Charlie may seem to run at a <strong>plodding</strong> pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch.</p>",
+          "example": "Charlie may seem to run at a plodding pace, but he is an ultramarathoner, meaning he runs distances of up to 100 miles, and can run for ten hours at a stretch."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/plodding"
+    },
+    {
+      "word": "proponent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who pleads for a cause or propounds an idea</p>",
+          "definition": "noun: a person who pleads for a cause or propounds an idea",
+          "exampleHtml": "<p>Ironically, the leading <strong>proponent</strong> of Flat-Earth Theory flies all over the world in an effort to win more adherents.</p>",
+          "example": "Ironically, the leading proponent of Flat-Earth Theory flies all over the world in an effort to win more adherents."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/proponent"
+    },
+    {
+      "word": "robust",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> sturdy and strong in form, constitution, or construction</p>",
+          "definition": "adjective: sturdy and strong in form, constitution, or construction",
+          "exampleHtml": "<p>Chris preferred bland and mild beers, but Bhavin preferred a beer with more <strong>robust</strong> flavor.</p>",
+          "example": "Chris preferred bland and mild beers, but Bhavin preferred a beer with more robust flavor."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/robust"
+    },
+    {
+      "word": "consummate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having or revealing supreme mastery or skill</p>",
+          "definition": "adjective: having or revealing supreme mastery or skill",
+          "exampleHtml": "<p>Tyler was the <strong>consummate</strong> musician: he was able to play the guitar, harmonica, and the drum at the same time.</p>",
+          "example": "Tyler was the consummate musician: he was able to play the guitar, harmonica, and the drum at the same time."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to make perfect and complete in every respect</p>",
+          "definition": "verb: to make perfect and complete in every respect",
+          "exampleHtml": "<p>The restoration of the ancient church was only <strong>consummated</strong> after a twenty years of labor.</p>",
+          "example": "The restoration of the ancient church was only consummated after a twenty years of labor."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/consummate"
+    },
+    {
+      "word": "advocate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> speak, plead, or argue in favor of</p>",
+          "definition": "verb: speak, plead, or argue in favor of",
+          "exampleHtml": "<p>While the senator privately approved of gay marriage, he was unwilling to <strong>advocate</strong> for the cause in a public venue.</p>",
+          "example": "While the senator privately approved of gay marriage, he was unwilling to advocate for the cause in a public venue."
+        },
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who pleads for a cause or propounds an idea</p>",
+          "definition": "noun: a person who pleads for a cause or propounds an idea",
+          "exampleHtml": "<p>Martin Luther King Jr. was a tireless <strong>advocate</strong> for the rights of African-Americans in the United States.&nbsp;</p>",
+          "example": "Martin Luther King Jr. was a tireless advocate for the rights of African-Americans in the United States."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/advocate"
+    },
+    {
+      "word": "morose",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> ill-tempered and not inclined to talk; gloomy</p>",
+          "definition": "adjective: ill-tempered and not inclined to talk; gloomy",
+          "exampleHtml": "<p>After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room <strong>morosely</strong>.</p>",
+          "example": "After Stanley found out he was no longer able to go on vacation with his friends, he sat in his room morosely."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/morose"
+    },
+    {
+      "word": "apprehension",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> fearful expectation</p>",
+          "definition": "noun: fearful expectation",
+          "exampleHtml": "<p>Test day can be one of pure <strong>apprehension</strong>, as many students worry about their test scores.</p>",
+          "example": "Test day can be one of pure apprehension, as many students worry about their test scores."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/apprehension"
+    },
+    {
+      "word": "boon",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a desirable state; something helpful or beneficial</p>",
+          "definition": "noun: a desirable state; something helpful or beneficial",
+          "exampleHtml": "<p>Modern technology has been a <strong>boon</strong> to the travel industry.</p>",
+          "example": "Modern technology has been a boon to the travel industry."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> very close and convivial</p>",
+          "definition": "adjective: very close and convivial",
+          "exampleHtml": "<p>He was a <strong>boon</strong> companion to many, and will be sadly missed.</p>",
+          "example": "He was a boon companion to many, and will be sadly missed."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/boon"
+    },
+    {
+      "word": "disenfranchise",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> deprive of voting rights</p>",
+          "definition": "verb: deprive of voting rights",
+          "exampleHtml": "<p>The U.S. Constitution <strong>disenfranchised</strong> women until 1920 when they were given the right to vote.</p>",
+          "example": "The U.S. Constitution disenfranchised women until 1920 when they were given the right to vote."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/disenfranchise"
+    },
+    {
+      "word": "ascendancy",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the state that exists when one person or group has power over another</p>",
+          "definition": "noun: the state that exists when one person or group has power over another",
+          "exampleHtml": "<p>The <strong>ascendancy</strong> of the Carlsbad water polo team is clear—they have a decade of championships behind them.</p>",
+          "example": "The ascendancy of the Carlsbad water polo team is clear—they have a decade of championships behind them."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/ascendancy"
+    },
+    {
+      "word": "patronize",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> treat condescendingly</p>",
+          "definition": "verb: treat condescendingly",
+          "exampleHtml": "<p>She says she genuinely wanted to help me, but instead she <strong>patronized</strong> me, constantly pointing out how I was inferior to her.</p>",
+          "example": "She says she genuinely wanted to help me, but instead she patronized me, constantly pointing out how I was inferior to her."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/patronize"
+    },
+    {
+      "word": "transitory",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> lasting a very short time</p>",
+          "definition": "adjective: lasting a very short time",
+          "exampleHtml": "<p>If we lived forever and life was not <strong>transitory</strong>, do you think we would appreciate life less or more?</p>",
+          "example": "If we lived forever and life was not transitory, do you think we would appreciate life less or more?"
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/transitory"
+    },
+    {
+      "word": "avid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by active interest and enthusiasm</p>",
+          "definition": "adjective: marked by active interest and enthusiasm",
+          "exampleHtml": "<p>Martin is an <strong>avid</strong> birdwatcher, often taking long hikes into remote mountains to see some rare eagle.</p>",
+          "example": "Martin is an avid birdwatcher, often taking long hikes into remote mountains to see some rare eagle."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/avid"
+    },
+    {
+      "word": "disheartened",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> made less hopeful or enthusiastic</p>",
+          "definition": "adjective: made less hopeful or enthusiastic",
+          "exampleHtml": "<p>After the visiting team scored nine times, the home team's fans were <strong>disheartened</strong>, some leaving the game early.</p>",
+          "example": "After the visiting team scored nine times, the home team's fans were disheartened, some leaving the game early."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/disheartened"
+    },
+    {
+      "word": "impermeable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> does not allow fluids to pass through</p>",
+          "definition": "adjective: does not allow fluids to pass through",
+          "exampleHtml": "<p>The sand bags placed on the river formed an <strong>impermeable</strong> barrier, protecting the town from flooding.</p>",
+          "example": "The sand bags placed on the river formed an impermeable barrier, protecting the town from flooding."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/impermeable"
+    },
+    {
+      "word": "entice",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> get someone to do something through (often false or exaggerated) promises</p>",
+          "definition": "verb: get someone to do something through (often false or exaggerated) promises",
+          "exampleHtml": "<p>Harold <strong>enticed</strong> his wife, Maude, to go on a vacation to Hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets.</p>",
+          "example": "Harold enticed his wife, Maude, to go on a vacation to Hawaii, with promises of luaus on the beach and all-you-can-eat seafood buffets."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/entice"
+    },
+    {
+      "word": "discriminate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> recognize or perceive the difference</p>",
+          "definition": "verb: recognize or perceive the difference",
+          "exampleHtml": "<p>Sarah couldn't <strong>discriminate</strong> between a good wine and a bad wine, so she avoided wine tastings.</p>",
+          "example": "Sarah couldn't discriminate between a good wine and a bad wine, so she avoided wine tastings."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/discriminate"
+    },
+    {
+      "word": "moot",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> open to argument or debate; undecidable in a meaningless or irrelevant way</p>",
+          "definition": "adjective: open to argument or debate; undecidable in a meaningless or irrelevant way",
+          "exampleHtml": "<p>Since the Board just terminated Steve as the CEO, what the finance committee might have thought of his proposed marketing plan for next year is now a <strong>moot</strong> point.</p>",
+          "example": "Since the Board just terminated Steve as the CEO, what the finance committee might have thought of his proposed marketing plan for next year is now a moot point."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/moot"
+    },
+    {
+      "word": "thwart",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> hinder or prevent (the efforts, plans, or desires) of</p>",
+          "definition": "verb: hinder or prevent (the efforts, plans, or desires) of",
+          "exampleHtml": "<p>I wanted to spend a week in New York this autumn, but the high costs of travel and lodging <strong>thwarted</strong> my plans.</p>",
+          "example": "I wanted to spend a week in New York this autumn, but the high costs of travel and lodging thwarted my plans."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/thwart"
+    },
+    {
+      "word": "inclement",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (of weather) unpleasant, stormy</p>",
+          "definition": "adjective: (of weather) unpleasant, stormy",
+          "exampleHtml": "<p>After a week of <strong>inclement</strong> weather, we finally are able to go outside and enjoy the sun.</p>",
+          "example": "After a week of inclement weather, we finally are able to go outside and enjoy the sun."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> used of persons or behavior; showing no mercy</p>",
+          "definition": "adjective: used of persons or behavior; showing no mercy",
+          "exampleHtml": "<p>Marcus Aurelius, though a fair man, was <strong>inclement</strong> to Christians during his reign, persecuting them violently.</p>",
+          "example": "Marcus Aurelius, though a fair man, was inclement to Christians during his reign, persecuting them violently."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/inclement"
+    },
+    {
+      "word": "guffaw",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> laugh boisterously</p>",
+          "definition": "verb: laugh boisterously",
+          "exampleHtml": "<p>Whenever the jester fell to the ground in mock pain, the king <strong>guffawed</strong>, exposing his yellow, fang-like teeth.</p>",
+          "example": "Whenever the jester fell to the ground in mock pain, the king guffawed, exposing his yellow, fang-like teeth."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/guffaw"
+    },
+    {
+      "word": "endemic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> native; originating where it is found</p>",
+          "definition": "adjective: native; originating where it is found",
+          "exampleHtml": "<p>Irish cuisine makes great use of potatoes, but ironically, the potato is not <strong>endemic</strong> to Ireland.</p>",
+          "example": "Irish cuisine makes great use of potatoes, but ironically, the potato is not endemic to Ireland."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/endemic"
+    },
+    {
+      "word": "raffish",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by a carefree unconventionality or disreputableness</p>",
+          "definition": "adjective: marked by a carefree unconventionality or disreputableness",
+          "exampleHtml": "<p>The men found him <strong>raffish</strong>, but the women adored his smart clothes and casual attitude.</p>",
+          "example": "The men found him raffish, but the women adored his smart clothes and casual attitude."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/raffish"
+    },
+    {
+      "word": "muted",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> softened, subdued</p>",
+          "definition": "adjective: softened, subdued",
+          "exampleHtml": "<p>Helen preferred <strong>muted</strong> earth colors, such as green and brown, to the bright pinks and red her sister liked.</p>",
+          "example": "Helen preferred muted earth colors, such as green and brown, to the bright pinks and red her sister liked."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/muted"
+    },
+    {
+      "word": "malleable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> capable of being shaped or bent or drawn out</p>",
+          "definition": "adjective: capable of being shaped or bent or drawn out",
+          "exampleHtml": "<p>The clay became <strong>malleable</strong> and easy to work with after a little water was added.</p>",
+          "example": "The clay became malleable and easy to work with after a little water was added."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> easily influenced</p>",
+          "definition": "adjective: easily influenced",
+          "exampleHtml": "<p>My little brother is so <strong>malleable</strong> that I can convince him to sneak cookies from the cupboard for me.</p>",
+          "example": "My little brother is so malleable that I can convince him to sneak cookies from the cupboard for me."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/malleable"
+    },
+    {
+      "word": "flounder",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> behave awkwardly; have difficulties</p>",
+          "definition": "verb: behave awkwardly; have difficulties",
+          "exampleHtml": "<p>Sylvia has excelled at advanced calculus, but ironically, when she has to deal with taxes, she <strong>flounders</strong>.</p>",
+          "example": "Sylvia has excelled at advanced calculus, but ironically, when she has to deal with taxes, she flounders."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/flounder"
+    },
+    {
+      "word": "impede",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> be a hindrance or obstacle to</p>",
+          "definition": "verb: be a hindrance or obstacle to",
+          "exampleHtml": "<p>Since the police sergeant had to train the pair of new hires, progress in his own case was <strong>impeded</strong>.</p>",
+          "example": "Since the police sergeant had to train the pair of new hires, progress in his own case was impeded."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/impede"
+    },
+    {
+      "word": "renege",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> fail to fulfill a promise or obligation</p>",
+          "definition": "verb: fail to fulfill a promise or obligation",
+          "exampleHtml": "<p>We will no longer work with that vendor since it has <strong>reneged</strong> on nearly every agreement.</p>",
+          "example": "We will no longer work with that vendor since it has reneged on nearly every agreement."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/renege"
+    },
+    {
+      "word": "stolid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having or revealing little emotion or sensibility; not easily aroused or excited</p>",
+          "definition": "adjective: having or revealing little emotion or sensibility; not easily aroused or excited",
+          "exampleHtml": "<p>Elephants may appear <strong>stolid</strong> to casual observers, but they actually have passionate emotional lives.</p>",
+          "example": "Elephants may appear stolid to casual observers, but they actually have passionate emotional lives."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/stolid"
+    },
+    {
+      "word": "autonomously",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adverb:</strong> Acting independently; self-governing (of a country)</p>",
+          "definition": "adverb: Acting independently; self-governing (of a country)",
+          "exampleHtml": "<p>Many of the factory workers are worried about being replaced by machines and computers that will work completely <strong>autonomously</strong>.</p>",
+          "example": "Many of the factory workers are worried about being replaced by machines and computers that will work completely autonomously."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/autonomously"
+    },
+    {
+      "word": "quandary",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options</p>",
+          "definition": "noun: state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options",
+          "exampleHtml": "<p>Steve certainly is in a <strong>quandary</strong>: if he doesn't call Elaine, she will blame him for everything, but if he does call her, the evidence of where he currently is could cost him his job.</p>",
+          "example": "Steve certainly is in a quandary: if he doesn't call Elaine, she will blame him for everything, but if he does call her, the evidence of where he currently is could cost him his job."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/quandary"
+    },
+    {
+      "word": "incessant",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> uninterrupted in time and indefinitely long continuing</p>",
+          "definition": "adjective: uninterrupted in time and indefinitely long continuing",
+          "exampleHtml": "<p>I don't mind small children in brief doses, but I think the <strong>incessant</strong> exposure that their parents have to them would quickly wear me down.</p>",
+          "example": "I don't mind small children in brief doses, but I think the incessant exposure that their parents have to them would quickly wear me down."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/incessant"
+    },
+    {
+      "word": "pithy",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> concise and full of meaning</p>",
+          "definition": "adjective: concise and full of meaning",
+          "exampleHtml": "<p>I enjoy reading the Daodejing for its <strong>pithy</strong> and insightful prose; it always gives me something to think about.</p>",
+          "example": "I enjoy reading the Daodejing for its pithy and insightful prose; it always gives me something to think about."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/pithy"
+    },
+    {
+      "word": "deter",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> turn away from by persuasion</p>",
+          "definition": "verb: turn away from by persuasion",
+          "exampleHtml": "<p>His mother tried to <strong>deter</strong> him from joining the army, but he was too intoxicated with the idea of war to listen.</p>",
+          "example": "His mother tried to deter him from joining the army, but he was too intoxicated with the idea of war to listen."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> try to prevent; show opposition to</p>",
+          "definition": "verb: try to prevent; show opposition to",
+          "exampleHtml": "<p>The government's primary job should involve <strong>deterring</strong> paths to war, not finding ways to start them.</p>",
+          "example": "The government's primary job should involve deterring paths to war, not finding ways to start them."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/deter"
+    },
+    {
+      "word": "fledgling",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> young and inexperienced <br>\n<strong>noun:</strong> any new participant in some activity</p>",
+          "definition": "adjective: young and inexperienced \nnoun: any new participant in some activity",
+          "exampleHtml": "<p>Murray has years of experience in family practice, but he is just a <strong>fledgling</strong> in surgery.</p>",
+          "example": "Murray has years of experience in family practice, but he is just a fledgling in surgery."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/fledgling"
+    },
+    {
+      "word": "snide",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> expressive of contempt; derogatory or mocking in an indirect way</p>",
+          "definition": "adjective: expressive of contempt; derogatory or mocking in an indirect way",
+          "exampleHtml": "<p>The chairman interpreted Taylor's question about promotions as a <strong>snide</strong> remark, but in all innocence Taylor was trying to figure out the company's process.</p>",
+          "example": "The chairman interpreted Taylor's question about promotions as a snide remark, but in all innocence Taylor was trying to figure out the company's process."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/snide"
+    },
+    {
+      "word": "malady",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a disease or sickness</p>",
+          "definition": "noun: a disease or sickness",
+          "exampleHtml": "<p>The town was struck by a <strong>malady</strong> throughout the winter that left most people sick in bed for two weeks.</p>",
+          "example": "The town was struck by a malady throughout the winter that left most people sick in bed for two weeks."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/malady"
+    },
+    {
+      "word": "elusive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> difficult to capture or difficult to remember</p>",
+          "definition": "adjective: difficult to capture or difficult to remember",
+          "exampleHtml": "<p>Many first time skydivers say that describing the act of falling from the sky is <strong>elusive</strong>.</p>",
+          "example": "Many first time skydivers say that describing the act of falling from the sky is elusive."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/elusive"
+    },
+    {
+      "word": "meander",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to wander aimlessly</p>",
+          "definition": "verb: to wander aimlessly",
+          "exampleHtml": "<p>A casual observer might have thought that Peter was <strong>meandering</strong> through the city, but that day he was actually seeking out those places where he and his long lost love had once visited.</p>",
+          "example": "A casual observer might have thought that Peter was meandering through the city, but that day he was actually seeking out those places where he and his long lost love had once visited."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/meander"
+    },
+    {
+      "word": "archaic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> so old as to appear to belong to a different period</p>",
+          "definition": "adjective: so old as to appear to belong to a different period",
+          "exampleHtml": "<p>Hoping to sound intelligent, Mary spoke in <strong>archaic</strong> English that was right out of Jane Austen's Pride and Prejudice--needless to say, she didn't have many friends.</p>",
+          "example": "Hoping to sound intelligent, Mary spoke in archaic English that was right out of Jane Austen's Pride and Prejudice--needless to say, she didn't have many friends."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/archaic"
+    },
+    {
+      "word": "ingenuity",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the power of creative imagination</p>",
+          "definition": "noun: the power of creative imagination",
+          "exampleHtml": "<p>Daedalus was famous for his <strong>ingenuity</strong>; he was able to fashion his son Icarus with a pair of wings, using wax to hold them together.</p>",
+          "example": "Daedalus was famous for his ingenuity; he was able to fashion his son Icarus with a pair of wings, using wax to hold them together."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-3/ingenuity"
+    }
+  ]
+}

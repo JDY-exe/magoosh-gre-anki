@@ -1,0 +1,17 @@
+{
+  "word": "immutable",
+  "source": "https://en.wiktionary.org/wiki/immutable",
+  "etymologies": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "From Middle English immutable, from Latin immūtābilis (“unchangeable”); im- +‎ mutable."
+      ],
+      "senses": [
+        "Unable to be changed without exception.",
+        "(programming, of a variable) Not able to be altered in the memory after its value is set initially.",
+        "Something that cannot be changed."
+      ]
+    }
+  ]
+}

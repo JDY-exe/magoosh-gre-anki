@@ -1,0 +1,36 @@
+{
+  "word": "delegate",
+  "source": "https://en.wiktionary.org/wiki/delegate",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "From Middle English delegat, from Old French delegat, from Latin dēlēgātus substantivized from the nominative masculine singular of dēlēgātus, the perfect passive participle of dēlēgō (“to send, assign, delegate”), see -ate (noun-forming suffix). See also legate."
+      ],
+      "senses": [
+        "A person authorized to act as representative for another; a deputy.",
+        "A representative at a conference, etc."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "From the above noun by metanalysis or directly borrowed from Latin dēlēgātus, see -ate (verb-forming suffix) and Etymology 1 for more."
+      ],
+      "senses": [
+        "(intransitive) To commit tasks and responsibilities to others, especially subordinates.",
+        "(transitive) To commit (a task or responsibility) to someone, especially a subordinate."
+      ]
+    },
+    {
+      "heading": "Etymology 3",
+      "paragraphs": [
+        "From Middle English delegat(e) (“delegated”, used as a past participle and adjective), used as the past participle of delegate up until Early Modern English, see -ate (adjective-forming suffix) and Etymology 1 for more."
+      ],
+      "senses": [
+        "(obsolete, past participle) delegated",
+        "(obsolete, adjective) Acting as a delegate, delegated; of, pertaining to a delegate"
+      ]
+    }
+  ]
+}

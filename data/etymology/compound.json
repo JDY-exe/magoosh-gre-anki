@@ -1,0 +1,30 @@
+{
+  "word": "compound",
+  "source": "https://en.wiktionary.org/wiki/compound",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "Possibly from Malay kampong, kampung (“group of buildings, village”), via Dutch or Portuguese, altered under the influence of Etymology 2. Doublet of kampung."
+      ],
+      "senses": [
+        "An enclosure within which workers, prisoners, or soldiers are confined.",
+        "An enclosure for secure storage."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "From Middle English compounen, from Middle French componre, compondre (“to put together”), from Latin componō, from Latin com- (“together”) + ponō (“to put”)."
+      ],
+      "senses": [
+        "Composed of elements; not simple.",
+        "(mathematics) Dealing with numbers of various denominations of quantity, or with processes more complex than the simple process.",
+        "",
+        "Anything made by combining several things.",
+        "(transitive) To form (a resulting mixture) by combining different elements, ingredients, or parts; to mingle with something else.",
+        "(transitive, law) To settle by agreeing on less than the claim, or on different terms than those stipulated."
+      ]
+    }
+  ]
+}

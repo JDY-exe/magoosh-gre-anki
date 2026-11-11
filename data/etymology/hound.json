@@ -1,0 +1,38 @@
+{
+  "word": "hound",
+  "source": "https://en.wiktionary.org/wiki/hound",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "Inherited from Middle English hound, from Old English hund, from Proto-West Germanic *hund, from Proto-Germanic *hundaz, from Proto-Indo-European *ḱwṓ. Doublet of canine.",
+        "Cognate with Dutch hond (“dog”), German Hund (“dog”), Danish, Norwegian Bokmål, Norwegian Nynorsk, and Swedish hund (“dog”), Faroese and Icelandic hundur (“dog”).",
+        "In 14th-century England, hound was the general word for all domestic canines, and dog referred to a subtype resembling the modern mastiff and bulldog (much as the distinction between Hund and Dogge in contemporary German). By the 16th century, dog had become the general word, and hound had begun to refer only to breeds used for hunting."
+      ],
+      "senses": [
+        "A dog, particularly a breed with a good sense of smell developed for hunting other animals.",
+        "Any canine animal."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "From Middle English hounden, from the noun (see above)."
+      ],
+      "senses": [
+        "(transitive) To persistently harass doggedly.",
+        "(transitive, archaic) To urge on against; to set (dogs) upon in hunting."
+      ]
+    },
+    {
+      "heading": "Etymology 3",
+      "paragraphs": [
+        "From Middle English hownde, hount, houn, probably from Old Norse húnn, from Proto-Germanic *hūnaz."
+      ],
+      "senses": [
+        "(nautical, in the plural) Projections located at the masthead or foremast, serving as a support for the trestletrees and top on which to rest; a foretop.",
+        "A side bar used to strengthen portions of the running gear of a vehicle."
+      ]
+    }
+  ]
+}

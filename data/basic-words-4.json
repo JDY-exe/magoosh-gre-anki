@@ -1,0 +1,625 @@
+{
+  "name": "Basic IV",
+  "expected": 50,
+  "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/basic-words-4",
+  "cards": [
+    {
+      "word": "unruly",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority</p>",
+          "definition": "adjective: (of persons) noisy and lacking in restraint or discipline; unwilling to submit to authority",
+          "exampleHtml": "<p>Walk in to any preschool and I am sure that you will find an <strong>unruly</strong> and chaotic scene—unless it's nap time.</p>",
+          "example": "Walk in to any preschool and I am sure that you will find an unruly and chaotic scene—unless it's nap time."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/unruly"
+    },
+    {
+      "word": "conducive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> making a situation or outcome more likely to happen</p>",
+          "definition": "adjective: making a situation or outcome more likely to happen",
+          "exampleHtml": "<p>Studying in a quiet room is <strong>conducive</strong> to learning; studying in a noisy environment makes learning more difficult.</p>",
+          "example": "Studying in a quiet room is conducive to learning; studying in a noisy environment makes learning more difficult."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/conducive"
+    },
+    {
+      "word": "banish",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> expel from a community, residence, or location; drive away</p>",
+          "definition": "verb: expel from a community, residence, or location; drive away",
+          "exampleHtml": "<p>The most difficult part of the fast was <strong>banishing</strong> thoughts of food.</p>",
+          "example": "The most difficult part of the fast was banishing thoughts of food."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/banish"
+    },
+    {
+      "word": "detrimental",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (sometimes followed by \"to\") causing harm or injury</p>",
+          "definition": "adjective: (sometimes followed by \"to\") causing harm or injury",
+          "exampleHtml": "<p>Many know that smoking is <strong>detrimental</strong> to your health, but processed sugar in large quantities is equally bad.</p>",
+          "example": "Many know that smoking is detrimental to your health, but processed sugar in large quantities is equally bad."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/detrimental"
+    },
+    {
+      "word": "illicit",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> contrary to or forbidden by law</p>",
+          "definition": "adjective: contrary to or forbidden by law",
+          "exampleHtml": "<p>Though Al Capone was engaged in many <strong>illicit</strong> activities, he was finally arrested for income tax evasion, a relatively minor offense.</p>",
+          "example": "Though Al Capone was engaged in many illicit activities, he was finally arrested for income tax evasion, a relatively minor offense."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/illicit"
+    },
+    {
+      "word": "credence",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> belief in something</p>",
+          "definition": "noun: belief in something",
+          "exampleHtml": "<p>He placed no <strong>credence</strong> in psychics, claiming that they offered no special powers beyond the ability to make people part with their money.</p>",
+          "example": "He placed no credence in psychics, claiming that they offered no special powers beyond the ability to make people part with their money."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/credence"
+    },
+    {
+      "word": "egotist",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a conceited and self-centered person</p>",
+          "definition": "noun: a conceited and self-centered person",
+          "exampleHtml": "<p>An <strong>egotist</strong>, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol.</p>",
+          "example": "An egotist, Natasha had few friends because of her inability to talk about anything except her dream of becoming the next American Idol."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/egotist"
+    },
+    {
+      "word": "tawdry",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> tastelessly showy; cheap and shoddy</p>",
+          "definition": "adjective: tastelessly showy; cheap and shoddy",
+          "exampleHtml": "<p>Carol expected to find New York City magical, the way so many movies had portrayed it, but she was surprised how often <strong>tawdry</strong> displays took the place of genuine elegance.</p>",
+          "example": "Carol expected to find New York City magical, the way so many movies had portrayed it, but she was surprised how often tawdry displays took the place of genuine elegance."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/tawdry"
+    },
+    {
+      "word": "pertinent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having precise or logical relevance to the matter at hand</p>",
+          "definition": "adjective: having precise or logical relevance to the matter at hand",
+          "exampleHtml": "<p>While the salaries of the players might draw attention in the media, such monetary figures are not <strong>pertinent</strong> to the question of who plays the best on the field.</p>",
+          "example": "While the salaries of the players might draw attention in the media, such monetary figures are not pertinent to the question of who plays the best on the field."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/pertinent"
+    },
+    {
+      "word": "martial",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> suggesting war or military life</p>",
+          "definition": "adjective: suggesting war or military life",
+          "exampleHtml": "<p>Americans tend to remember Abraham Lincoln as kindly and wise, not at all <strong>martial</strong>, despite the fact that he was involved in the fiercest war America has even fought.</p>",
+          "example": "Americans tend to remember Abraham Lincoln as kindly and wise, not at all martial, despite the fact that he was involved in the fiercest war America has even fought."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/martial"
+    },
+    {
+      "word": "genteel",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by refinement in taste and manners</p>",
+          "definition": "adjective: marked by refinement in taste and manners",
+          "exampleHtml": "<p>A live string quartet would provide a more <strong>genteel</strong> air to the wedding than would a folk singer.</p>",
+          "example": "A live string quartet would provide a more genteel air to the wedding than would a folk singer."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/genteel"
+    },
+    {
+      "word": "assuage",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> make something intense less severe</p>",
+          "definition": "verb: make something intense less severe",
+          "exampleHtml": "<p>Her fear that the new college would be filled with unknown faces was <strong>assuaged</strong> when she recognized her childhood friend standing in line.</p>",
+          "example": "Her fear that the new college would be filled with unknown faces was assuaged when she recognized her childhood friend standing in line."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/assuage"
+    },
+    {
+      "word": "commendable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> worthy of high praise</p>",
+          "definition": "adjective: worthy of high praise",
+          "exampleHtml": "<p>The efforts of the firefighters running into the burning building were <strong>commendable</strong>.</p>",
+          "example": "The efforts of the firefighters running into the burning building were commendable."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/commendable"
+    },
+    {
+      "word": "fickle",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> liable to sudden unpredictable change, esp. in affections or attachments</p>",
+          "definition": "adjective: liable to sudden unpredictable change, esp. in affections or attachments",
+          "exampleHtml": "<p>She was so <strong>fickle</strong> in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it.</p>",
+          "example": "She was so fickle in her politics, it was hard to pinpoint her beliefs; one week she would embrace a side, and the next week she would denounce it."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/fickle"
+    },
+    {
+      "word": "buck",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> resist</p>",
+          "definition": "verb: resist",
+          "exampleHtml": "<p>The profits at our firm <strong>bucked</strong> the general downturn that affected the real estate industry.</p>",
+          "example": "The profits at our firm bucked the general downturn that affected the real estate industry."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/buck"
+    },
+    {
+      "word": "smattering",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a slight or superficial understanding of a subject; a small amount of something</p>",
+          "definition": "noun: a slight or superficial understanding of a subject; a small amount of something",
+          "exampleHtml": "<p>I know only a <strong>smattering</strong> of German, but Helen is able to read German newspapers and converse with natives.</p>",
+          "example": "I know only a smattering of German, but Helen is able to read German newspapers and converse with natives."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/smattering"
+    },
+    {
+      "word": "assail",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> attack in speech or writing</p>",
+          "definition": "verb: attack in speech or writing",
+          "exampleHtml": "<p>In the weekly paper, the editor <strong>assailed</strong> the governor for wasting hundreds of thousands of dollars in public projects that quickly failed.</p>",
+          "example": "In the weekly paper, the editor assailed the governor for wasting hundreds of thousands of dollars in public projects that quickly failed."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/assail"
+    },
+    {
+      "word": "sentimental",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> effusively or insincerely emotional, especially in art, music, and literature</p>",
+          "definition": "adjective: effusively or insincerely emotional, especially in art, music, and literature",
+          "exampleHtml": "<p>I don't like romanticism for the same reason I don't like melodramatic acting and soap operas—overly <strong>sentimental</strong>.</p>",
+          "example": "I don't like romanticism for the same reason I don't like melodramatic acting and soap operas—overly sentimental."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/sentimental"
+    },
+    {
+      "word": "urbane",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> showing a high degree of refinement and the assurance that comes from wide social experience</p>",
+          "definition": "adjective: showing a high degree of refinement and the assurance that comes from wide social experience",
+          "exampleHtml": "<p>Because of his service as an intelligence officer and his refined tastes, W. Somerset Maugham became the inspiration for the <strong>urbane</strong> and sophisticate spy James Bond.</p>",
+          "example": "Because of his service as an intelligence officer and his refined tastes, W. Somerset Maugham became the inspiration for the urbane and sophisticate spy James Bond."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/urbane"
+    },
+    {
+      "word": "irresolute",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> uncertain how to act or proceed</p>",
+          "definition": "adjective: uncertain how to act or proceed",
+          "exampleHtml": "<p>He stood <strong>irresolute</strong> at the split in the trail, not sure which route would lead back to the camp.</p>",
+          "example": "He stood irresolute at the split in the trail, not sure which route would lead back to the camp."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/irresolute"
+    },
+    {
+      "word": "contemptuous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> scornful, looking down at others with a sneering attitude</p>",
+          "definition": "adjective: scornful, looking down at others with a sneering attitude",
+          "exampleHtml": "<p>Always on the forefront of fashion, Vanessa looked <strong>contemptuously</strong> at anyone wearing dated clothing.</p>",
+          "example": "Always on the forefront of fashion, Vanessa looked contemptuously at anyone wearing dated clothing."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/contemptuous"
+    },
+    {
+      "word": "hamstrung",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> made ineffective or powerless</p>",
+          "definition": "verb: made ineffective or powerless",
+          "exampleHtml": "<p>The FBI has made so many restrictions on the local police that they are absolutely <strong>hamstrung</strong>, unable to accomplish anything.</p>",
+          "example": "The FBI has made so many restrictions on the local police that they are absolutely hamstrung, unable to accomplish anything."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/hamstrung"
+    },
+    {
+      "word": "debase",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> reduce the quality or value of something</p>",
+          "definition": "verb: reduce the quality or value of something",
+          "exampleHtml": "<p>The third-rate script so <strong>debased</strong> the film that not even the flawless acting could save it from being a flop.</p>",
+          "example": "The third-rate script so debased the film that not even the flawless acting could save it from being a flop."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/debase"
+    },
+    {
+      "word": "altruism",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> the quality of unselfish concern for the welfare of others</p>",
+          "definition": "noun: the quality of unselfish concern for the welfare of others",
+          "exampleHtml": "<p>Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by <strong>altruism</strong>.</p>",
+          "example": "Albert Schweitzer spent most of his life doing missionary work as a doctor in Africa, seeking no reward, apparently motivated only by altruism."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/altruism"
+    },
+    {
+      "word": "glib",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (of a person) speaking with ease but without sincerity</p>",
+          "definition": "adjective: (of a person) speaking with ease but without sincerity",
+          "exampleHtml": "<p>I have found that the more <strong>glib</strong> the salesman, the worse the product.</p>",
+          "example": "I have found that the more glib the salesman, the worse the product."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/glib"
+    },
+    {
+      "word": "empathetic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> showing understanding and ready comprehension of other peoples' states and emotions</p>",
+          "definition": "adjective: showing understanding and ready comprehension of other peoples' states and emotions",
+          "exampleHtml": "<p>Most discrimination and hatred is based on a lack of <strong>empathetic</strong> awareness of people that have the same aspirations and fears.</p>",
+          "example": "Most discrimination and hatred is based on a lack of empathetic awareness of people that have the same aspirations and fears."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/empathetic"
+    },
+    {
+      "word": "precedent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an example that is used to justify similar occurrences at a later time</p>",
+          "definition": "noun: an example that is used to justify similar occurrences at a later time",
+          "exampleHtml": "<p>The principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a <strong>precedent</strong> for what could be worn at school dances.</p>",
+          "example": "The principal explained that even though one student had done modelling work outside of school, the outfits that student wore in those photographs in no way established a precedent for what could be worn at school dances."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/precedent"
+    },
+    {
+      "word": "perpetuate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> cause to continue</p>",
+          "definition": "verb: cause to continue",
+          "exampleHtml": "<p>If you do not let him do things for himself, you are merely <strong>perpetuating</strong> bad habits that will be even harder to break in the future.</p>",
+          "example": "If you do not let him do things for himself, you are merely perpetuating bad habits that will be even harder to break in the future."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/perpetuate"
+    },
+    {
+      "word": "genial",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> agreeable, conducive to comfort</p>",
+          "definition": "adjective: agreeable, conducive to comfort",
+          "exampleHtml": "<p>Betty is a <strong>genial</strong> young woman: everyone she meets is put at ease by her elegance and grace.</p>",
+          "example": "Betty is a genial young woman: everyone she meets is put at ease by her elegance and grace."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/genial"
+    },
+    {
+      "word": "uncompromising",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> not making concessions</p>",
+          "definition": "adjective: not making concessions",
+          "exampleHtml": "<p>The relationship between Bart and Hilda ultimately failed because they were both so <strong>uncompromising</strong>, never wanting to change their opinions.</p>",
+          "example": "The relationship between Bart and Hilda ultimately failed because they were both so uncompromising, never wanting to change their opinions."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/uncompromising"
+    },
+    {
+      "word": "whimsical",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> determined by impulse or whim rather than by necessity or reason</p>",
+          "definition": "adjective: determined by impulse or whim rather than by necessity or reason",
+          "exampleHtml": "<p>Adults look to kids and envy their <strong>whimsical</strong> nature at times, wishing that they could act without reason and play without limitation.</p>",
+          "example": "Adults look to kids and envy their whimsical nature at times, wishing that they could act without reason and play without limitation."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/whimsical"
+    },
+    {
+      "word": "lucid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (of language) transparently clear; easily understandable</p>",
+          "definition": "adjective: (of language) transparently clear; easily understandable",
+          "exampleHtml": "<p>Though Walters writes about physics and time travel, his writing is always <strong>lucid</strong>, so readers with little scientific training can understand difficult concepts.</p>",
+          "example": "Though Walters writes about physics and time travel, his writing is always lucid, so readers with little scientific training can understand difficult concepts."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/lucid"
+    },
+    {
+      "word": "perennial",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> lasting an indefinitely long time; eternal; everlasting</p>",
+          "definition": "adjective: lasting an indefinitely long time; eternal; everlasting",
+          "exampleHtml": "<p>Even at the old-timers games, Stan Musial would get the loudest cheer: he was a <strong>perennial</strong> favorite of the fans there.</p>",
+          "example": "Even at the old-timers games, Stan Musial would get the loudest cheer: he was a perennial favorite of the fans there."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/perennial"
+    },
+    {
+      "word": "vacuous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> devoid of intelligence, matter, or significance</p>",
+          "definition": "adjective: devoid of intelligence, matter, or significance",
+          "exampleHtml": "<p>To the journalist's pointed question, the senator gave a <strong>vacuous</strong> response, mixing a few of his overall campaign slogans with platitudes and completely avoiding the controversial subject of the question.</p>",
+          "example": "To the journalist's pointed question, the senator gave a vacuous response, mixing a few of his overall campaign slogans with platitudes and completely avoiding the controversial subject of the question."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/vacuous"
+    },
+    {
+      "word": "augment",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> enlarge or increase; improve</p>",
+          "definition": "verb: enlarge or increase; improve",
+          "exampleHtml": "<p>Ideally, the restaurant's <strong>augmented</strong> menu will expand its clientele and increase its profits.</p>",
+          "example": "Ideally, the restaurant's augmented menu will expand its clientele and increase its profits."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/augment"
+    },
+    {
+      "word": "spurn",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> reject with contempt</p>",
+          "definition": "verb: reject with contempt",
+          "exampleHtml": "<p>She <strong>spurned</strong> all his flattery and proposals, and so he walked off embarrassed and sad.</p>",
+          "example": "She spurned all his flattery and proposals, and so he walked off embarrassed and sad."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/spurn"
+    },
+    {
+      "word": "grovel",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> show submission or fear</p>",
+          "definition": "verb: show submission or fear",
+          "exampleHtml": "<p>Every time Susan comes to the office, Frank <strong>grovels</strong> as if she were about to fire him.</p>",
+          "example": "Every time Susan comes to the office, Frank grovels as if she were about to fire him."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/grovel"
+    },
+    {
+      "word": "elaborate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by complexity and richness of detail</p>",
+          "definition": "adjective: marked by complexity and richness of detail",
+          "exampleHtml": "<p>Thomas, on returning from Morocco, replaced his dirty gray carpet with an <strong>elaborate</strong> one he'd brought back with him.</p>",
+          "example": "Thomas, on returning from Morocco, replaced his dirty gray carpet with an elaborate one he'd brought back with him."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> explain in more detail</p>",
+          "definition": "verb: explain in more detail",
+          "exampleHtml": "<p>Most high school physics teachers find themselves <strong>elaborating</strong> the same point over and over again, since many concepts confuse students.</p>",
+          "example": "Most high school physics teachers find themselves elaborating the same point over and over again, since many concepts confuse students."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/elaborate"
+    },
+    {
+      "word": "facetious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> cleverly amusing in tone</p>",
+          "definition": "adjective: cleverly amusing in tone",
+          "exampleHtml": "<p><strong>Facetious</strong> behavior will not be tolerated during sex education class; it's time for all of you to treat these matters like mature adults.</p>",
+          "example": "Facetious behavior will not be tolerated during sex education class; it's time for all of you to treat these matters like mature adults."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/facetious"
+    },
+    {
+      "word": "rankle",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> gnaw into; make resentful or angry</p>",
+          "definition": "verb: gnaw into; make resentful or angry",
+          "exampleHtml": "<p>His constant whistling would <strong>rankle</strong> her, sometimes causing her to leave in a huff.</p>",
+          "example": "His constant whistling would rankle her, sometimes causing her to leave in a huff."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/rankle"
+    },
+    {
+      "word": "impeccable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> without fault or error</p>",
+          "definition": "adjective: without fault or error",
+          "exampleHtml": "<p>He was <strong>impeccably</strong> dressed in the latest fashion without a single crease or stain.</p>",
+          "example": "He was impeccably dressed in the latest fashion without a single crease or stain."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/impeccable"
+    },
+    {
+      "word": "inadvertent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> happening by chance or unexpectedly or unintentionally</p>",
+          "definition": "adjective: happening by chance or unexpectedly or unintentionally",
+          "exampleHtml": "<p>Although Prohibition was rooted in noble ideals, the <strong>inadvertent</strong> and costly consequences of making alcohol illegal in the U.S. led to its repeal.</p>",
+          "example": "Although Prohibition was rooted in noble ideals, the inadvertent and costly consequences of making alcohol illegal in the U.S. led to its repeal."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/inadvertent"
+    },
+    {
+      "word": "derisive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> abusing vocally; expressing contempt or ridicule</p>",
+          "definition": "adjective: abusing vocally; expressing contempt or ridicule",
+          "exampleHtml": "<p>I was surprised by her <strong>derisive</strong> tone; usually, she is sweet, soft spoken, and congenial.</p>",
+          "example": "I was surprised by her derisive tone; usually, she is sweet, soft spoken, and congenial."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/derisive"
+    },
+    {
+      "word": "jargon",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a characteristic language of a particular group</p>",
+          "definition": "noun: a characteristic language of a particular group",
+          "exampleHtml": "<p>To those with little training in medicine, the <strong>jargon</strong> of doctors can be very difficult to understand.</p>",
+          "example": "To those with little training in medicine, the jargon of doctors can be very difficult to understand."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/jargon"
+    },
+    {
+      "word": "cornucopia",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an abundant supply of something good</p>",
+          "definition": "noun: an abundant supply of something good",
+          "exampleHtml": "<p>The International Food Expo was a <strong>cornucopia</strong> of culinary delights: gourmet foods from every continent were under one roof.</p>",
+          "example": "The International Food Expo was a cornucopia of culinary delights: gourmet foods from every continent were under one roof."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/cornucopia"
+    },
+    {
+      "word": "euphoria",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a feeling of great (usually exaggerated) elation</p>",
+          "definition": "noun: a feeling of great (usually exaggerated) elation",
+          "exampleHtml": "<p>The <strong>euphoria</strong> of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy.</p>",
+          "example": "The euphoria of winning her first gold medal in the 100 meter dash overwhelmed Shelly-Ann Fraser and she wept tears of immense joy."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/euphoria"
+    },
+    {
+      "word": "tumult",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a state of chaos, noise and confusion</p>",
+          "definition": "noun: a state of chaos, noise and confusion",
+          "exampleHtml": "<p>Riots broke out just in front of our apartment building, and the <strong>tumult</strong> continued late into the night.</p>",
+          "example": "Riots broke out just in front of our apartment building, and the tumult continued late into the night."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/tumult"
+    },
+    {
+      "word": "benign",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> kind</p>",
+          "definition": "adjective: kind",
+          "exampleHtml": "<p>I remember my grandfather's face was wrinkled, <strong>benign</strong>, and calm.</p>",
+          "example": "I remember my grandfather's face was wrinkled, benign, and calm."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> (medicine) not dangerous to health; not recurrent or progressive</p>",
+          "definition": "adjective: (medicine) not dangerous to health; not recurrent or progressive",
+          "exampleHtml": "<p>The tumor located in your ear lobe seems to be <strong>benign</strong> and should not cause you any trouble.</p>",
+          "example": "The tumor located in your ear lobe seems to be benign and should not cause you any trouble."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/benign"
+    },
+    {
+      "word": "surly",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> inclined to anger or bad feelings with overtones of menace</p>",
+          "definition": "adjective: inclined to anger or bad feelings with overtones of menace",
+          "exampleHtml": "<p>Every morning, Bhavin was a <strong>surly</strong>, unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around.</p>",
+          "example": "Every morning, Bhavin was a surly, unhappy person, but once he ate breakfast, he became loving, laughing, and a joy to be around."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/surly"
+    },
+    {
+      "word": "pristine",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> Unspoiled, untouched (usu. of nature)</p>",
+          "definition": "adjective: Unspoiled, untouched (usu. of nature)",
+          "exampleHtml": "<p>The glacial lake was <strong>pristine</strong> and we filled our canteens to drink deeply.</p>",
+          "example": "The glacial lake was pristine and we filled our canteens to drink deeply."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> Immaculately clean and unused</p>",
+          "definition": "adjective: Immaculately clean and unused",
+          "exampleHtml": "<p>Drill sergeants are known for demanding <strong>pristine</strong> cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards.</p>",
+          "example": "Drill sergeants are known for demanding pristine cabinets, uniforms, and beds, and often make new recruits clean and clean and clean until they meet the expected high standards."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/basic-words-4/pristine"
+    }
+  ]
+}

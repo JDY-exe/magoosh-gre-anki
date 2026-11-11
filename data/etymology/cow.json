@@ -1,0 +1,45 @@
+{
+  "word": "cow",
+  "source": "https://en.wiktionary.org/wiki/cow",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "Inherited from Middle English cow, cou, from Old English cū (“cow”), from Proto-West Germanic *kō, from Proto-Germanic *kōz (“cow”), from Proto-Indo-European *gʷṓws (“cow”).",
+        "Cognate with Sanskrit गो (go), Ancient Greek βοῦς (boûs), Persian گاو (gâv)), Latvian govs (“cow”), Proto-Slavic *govędo (Serbo-Croatian govedo, Russian говядина (govjadina, “beef”), Scots coo (“cow”), North Frisian ko, kø (“cow”), West Frisian ko (“cow”), Dutch koe (“cow”), Low German Koh, Koo, Kau (“cow”), German Kuh (“cow”), Danish and Swedish ko (“cow”), Norwegian Bokmål and Norwegian Nynorsk ku (“cow”), Faroese kúgv (“cow”), Icelandic kýr (“cow”), Latin bōs (“ox, bull, cow”) (whence English beef), Armenian կով (kov, “cow”). Doublet of beef.",
+        "The plural kine is from Middle English kyne, kyn, kuin, kiin, kien (“cows”), either a double plural of Middle English ky, kye (“cows”), equivalent to modern kye +‎ -en, or inherited from Old English cūna (“cows', of cows”), genitive plural of cū (“cow”)."
+      ],
+      "senses": [
+        "",
+        "(strictly) An adult female of the species Bos taurus, especially one that has calved."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "Likely of North Germanic origin; if so, then ultimately from Old Norse kúga (“to cow, to force, to tyrannize over”). Compare Danish kue (“to subdue”), Faroese and Icelandic kúga, Norwegian Nynorsk kua, Swedish kuva (additionally meaning “to suppress [feelings etc.]”), all meaning “to cow, to subdue”."
+      ],
+      "senses": [
+        "(transitive, chiefly passive voice) To intimidate; to daunt the spirits or courage of."
+      ]
+    },
+    {
+      "heading": "Etymology 3",
+      "paragraphs": [
+        "A reduction of cowl, from Middle English coule, from Old English cūle < cugele, ultimately from Latin, from which further etymology is uncertain."
+      ],
+      "senses": [
+        "(UK, dialect) A chimney cowl."
+      ]
+    },
+    {
+      "heading": "Etymology 4",
+      "paragraphs": [
+        "Clipping of AT2018cow. From the name of the archetypal event, AT2018cow, an LFBOT. From being an astronomical transient (AT) occurring in 2018, with an automatically assigned code to distinguish it from other events in 2018."
+      ],
+      "senses": [
+        "(astronomy) Synonym of LFBOT (“luminous fast blue optical transient”)."
+      ]
+    }
+  ]
+}

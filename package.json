@@ -1,0 +1,20 @@
+{
+  "name": "magoosh-anki",
+  "version": "1.0.0",
+  "description": "Local Magoosh GRE vocabulary extraction, sourced etymology, and Anki packaging",
+  "scripts": {
+    "extract": "node scripts/extract.cjs",
+    "build": ".venv/bin/python scripts/build.py",
+    "extract:advanced": "node scripts/extract.cjs --advanced",
+    "etymology:advanced": ".venv/bin/python scripts/fetch_advanced_etymologies.py && .venv/bin/python scripts/fetch_advanced_roots.py",
+    "compile:all": ".venv/bin/python scripts/compile_etymologies.py --advanced",
+    "build:advanced": ".venv/bin/python scripts/build.py --advanced",
+    "build:all": ".venv/bin/python scripts/build.py --all"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.65.0"
+  }
+}

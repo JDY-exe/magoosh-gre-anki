@@ -1,0 +1,18 @@
+{
+  "word": "volatile",
+  "source": "https://en.wiktionary.org/wiki/volatile",
+  "etymologies": [
+    {
+      "heading": "Etymology",
+      "paragraphs": [
+        "From Middle French volatile, from Latin volātilis (“flying; swift; temporary; volatile”), from volō (“to fly”)."
+      ],
+      "senses": [
+        "",
+        "(chemistry, physics) Evaporating or vaporizing readily under normal conditions.",
+        "A chemical or compound that changes into a gas easily.",
+        "(programming) A variable that is volatile, i.e. has its associated memory immediately updated with any change in value."
+      ]
+    }
+  ]
+}

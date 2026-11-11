@@ -1,0 +1,30 @@
+{
+  "word": "dog",
+  "source": "https://en.wiktionary.org/wiki/dog",
+  "etymologies": [
+    {
+      "heading": "Etymology 1",
+      "paragraphs": [
+        "Inherited from Middle English dogge (akin to Scots dug), from Old English docga, *dogga, of uncertain origin.",
+        "The original meaning seems to have been a common dog, as opposed to a well-bred one, or something like 'cur', and perhaps later came to be used for stocky dogs. Possibly a pet-form diminutive with suffix -ga (compare frocga (“frog”), *picga (“pig”)), appended to a base *dog-, *doc- of unclear origin and meaning. One possibility is Old English dox (“dark, swarthy”) (compare frocga from frox). Another proposal is that it derives from Proto-West Germanic *dugan (“to be suitable”), the origin of Old English dugan (“to be good, worthy, useful”), English dow, Dutch deugen, German taugen. The theory goes that it could have been an epithet for dogs, commonly used by children, meaning \"good/useful animal\". Another one is that it is related to *docce (“stock, muscle”), from Proto-West Germanic *dokkā (“round mass, ball, muscle, doll”), whence English dock (“stumpy tail”).",
+        "In 14th-century England, hound (from Old English hund) was the general word for all domestic canines, and dog referred to a subtype resembling the modern mastiff and bulldog. By the 16th century, dog had become the general word, and hound had begun to refer only to breeds used for hunting. In the 16th century, the word dog was adopted by several continental European languages as their word for mastiff.",
+        "Despite similarities in forms and meaning, it is not related to Mbabaram dog."
+      ],
+      "senses": [
+        "Any member of species of the family Canidae of carnivorous mammals:",
+        "(uncountable, rare) The meat of this animal, eaten as food.",
+        "(transitive) To pursue with the intent to catch.",
+        "(transitive) To follow in an annoying or harassing way."
+      ]
+    },
+    {
+      "heading": "Etymology 2",
+      "paragraphs": [
+        "Clipping of dogshit."
+      ],
+      "senses": [
+        "(slang) Of inferior quality; very bad."
+      ]
+    }
+  ]
+}

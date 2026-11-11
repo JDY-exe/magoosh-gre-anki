@@ -1,0 +1,20 @@
+node_modules/
+.venv/
+.playwright-profile/
+*.log
+.DS_Store
+backups/
+__pycache__/
+
+# Only reproducible public decks and their validation reports belong in Git.
+output/*
+!output/Magoosh_GRE_through_Basic_IX.apkg
+!output/Magoosh_GRE_Advanced.apkg
+!output/Magoosh_GRE_All_Levels.apkg
+!output/validation.json
+!output/validation-advanced.json
+!output/validation-all.json
+!output/package-validation.json
+
+# Local review scratchpad.
+data/etymology-review.txt

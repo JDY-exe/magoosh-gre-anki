@@ -1,0 +1,643 @@
+{
+  "name": "Common Words III",
+  "expected": 51,
+  "url": "https://gre.magoosh.com/flashcards/vocabulary/decks/common-words-3",
+  "cards": [
+    {
+      "word": "quotidian",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> found in the ordinary course of events</p>",
+          "definition": "adjective: found in the ordinary course of events",
+          "exampleHtml": "<p>Phil gets so involved thinking about Aristotle's arguments that he totally forgets <strong>quotidian</strong> concerns, such as exercising and eating regularly.</p>",
+          "example": "Phil gets so involved thinking about Aristotle's arguments that he totally forgets quotidian concerns, such as exercising and eating regularly."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/quotidian"
+    },
+    {
+      "word": "subsume",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> contain or include</p>",
+          "definition": "verb: contain or include",
+          "exampleHtml": "<p>The rogue wave quickly <strong>subsumed</strong> the pier and boardwalk, destroying everything in its path.</p>",
+          "example": "The rogue wave quickly subsumed the pier and boardwalk, destroying everything in its path."
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> consider (an instance of something) as part of a general rule or principle</p>",
+          "definition": "verb: consider (an instance of something) as part of a general rule or principle",
+          "exampleHtml": "<p>Don Quixote of La Mancha <strong>subsumes</strong> all other modern novels, demonstrating modern literary devices and predating even the idea of a postmodern, metanarrative.</p>",
+          "example": "Don Quixote of La Mancha subsumes all other modern novels, demonstrating modern literary devices and predating even the idea of a postmodern, metanarrative."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/subsume"
+    },
+    {
+      "word": "supplant",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> take the place or move into the position of</p>",
+          "definition": "verb: take the place or move into the position of",
+          "exampleHtml": "<p>For many, a cell phone has <strong>supplanted</strong> a traditional phone; in fact, most 20-somethings don't even have a traditional phone anymore. </p>",
+          "example": "For many, a cell phone has supplanted a traditional phone; in fact, most 20-somethings don't even have a traditional phone anymore."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/supplant"
+    },
+    {
+      "word": "mollify",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to make someone who is angry less angry; placate</p>",
+          "definition": "verb: to make someone who is angry less angry; placate",
+          "exampleHtml": "<p>In the morning, Janine was unable to <strong>mollify</strong> Harry, if he happened to become angry, unless he'd had his cup of coffee.</p>",
+          "example": "In the morning, Janine was unable to mollify Harry, if he happened to become angry, unless he'd had his cup of coffee."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/mollify"
+    },
+    {
+      "word": "insidious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> working in a subtle but destructive way</p>",
+          "definition": "adjective: working in a subtle but destructive way",
+          "exampleHtml": "<p>Plaque is <strong>insidious</strong>: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems.</p>",
+          "example": "Plaque is insidious: we cannot see it, but each day it eats away at our enamel, causing cavities and other dental problems."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/insidious"
+    },
+    {
+      "word": "incongruous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> lacking in harmony or compatibility or appropriateness</p>",
+          "definition": "adjective: lacking in harmony or compatibility or appropriateness",
+          "exampleHtml": "<p>The vast economic inequality of modern society is <strong>incongruous</strong> with America's ideals.</p>",
+          "example": "The vast economic inequality of modern society is incongruous with America's ideals."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/incongruous"
+    },
+    {
+      "word": "languid",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> not inclined towards physical exertion or effort; slow and relaxed</p>",
+          "definition": "adjective: not inclined towards physical exertion or effort; slow and relaxed",
+          "exampleHtml": "<p>As the sun beat down and the temperature climbed higher, we spent a <strong>languid</strong> week lying around the house.</p>",
+          "example": "As the sun beat down and the temperature climbed higher, we spent a languid week lying around the house."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/languid"
+    },
+    {
+      "word": "ascetic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> practicing self-denial</p>",
+          "definition": "adjective: practicing self-denial",
+          "exampleHtml": "<p>His <strong>ascetic</strong> life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty.</p>",
+          "example": "His ascetic life is the main reason he inspired so many followers, especially since he gave up wealth and power to live in poverty."
+        },
+        {
+          "definitionHtml": "<p><strong>noun:</strong> one who practices great self-denial</p>",
+          "definition": "noun: one who practices great self-denial",
+          "exampleHtml": "<p>Historically, <strong>ascetics</strong> like Gandhi are often considered wise men partially because of their restraint.</p>",
+          "example": "Historically, ascetics like Gandhi are often considered wise men partially because of their restraint."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/ascetic"
+    },
+    {
+      "word": "denote",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> be a sign or indication of; have as a meaning</p>",
+          "definition": "verb: be a sign or indication of; have as a meaning",
+          "exampleHtml": "<p>Even if the text is not visible, the red octagon <strong>denotes</strong> \"stop\" to all motorists in America.</p>",
+          "example": "Even if the text is not visible, the red octagon denotes \"stop\" to all motorists in America."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/denote"
+    },
+    {
+      "word": "guileless",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> free of deceit</p>",
+          "definition": "adjective: free of deceit",
+          "exampleHtml": "<p>At first I thought my niece was <strong>guileless</strong>, but I then found myself buying her ice cream every time we passed a shop.</p>",
+          "example": "At first I thought my niece was guileless, but I then found myself buying her ice cream every time we passed a shop."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/guileless"
+    },
+    {
+      "word": "frustrate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> hinder or prevent (the efforts, plans, or desires) of</p>",
+          "definition": "verb: hinder or prevent (the efforts, plans, or desires) of",
+          "exampleHtml": "<p>I thought I would finish writing the paper by lunchtime, but a number of urgent interruptions served to <strong>frustrate</strong> my plan.</p>",
+          "example": "I thought I would finish writing the paper by lunchtime, but a number of urgent interruptions served to frustrate my plan."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/frustrate"
+    },
+    {
+      "word": "heretic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> a person who holds unorthodox opinions in any field (not merely religion)</p>",
+          "definition": "noun: a person who holds unorthodox opinions in any field (not merely religion)",
+          "exampleHtml": "<p>Though everybody at the gym told Mikey to do cardio before weights, Mikey was a <strong>heretic</strong> and always did the reverse.</p>",
+          "example": "Though everybody at the gym told Mikey to do cardio before weights, Mikey was a heretic and always did the reverse."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/heretic"
+    },
+    {
+      "word": "apathy",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an absence of emotion or enthusiasm</p>",
+          "definition": "noun: an absence of emotion or enthusiasm",
+          "exampleHtml": "<p>Widespread <strong>apathy</strong> among voters led to a very small turnout on election day.</p>",
+          "example": "Widespread apathy among voters led to a very small turnout on election day."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/apathy"
+    },
+    {
+      "word": "juxtapose",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> place side by side for contrast</p>",
+          "definition": "verb: place side by side for contrast",
+          "exampleHtml": "<p>The appeal of her paintings comes from a classical style which is <strong>juxtaposed</strong> with modern themes.</p>",
+          "example": "The appeal of her paintings comes from a classical style which is juxtaposed with modern themes."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/juxtapose"
+    },
+    {
+      "word": "derivative",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).</p>",
+          "definition": "adjective: not original but drawing strongly on something already in existence, especially in reference to a creative product (e.g. music, writing, poetry etc.).",
+          "exampleHtml": "<p>Because the movies were utterly <strong>derivative</strong> of other popular movies, they did well at the box office.</p>",
+          "example": "Because the movies were utterly derivative of other popular movies, they did well at the box office."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/derivative"
+    },
+    {
+      "word": "tenacious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> stubbornly unyielding</p>",
+          "definition": "adjective: stubbornly unyielding",
+          "exampleHtml": "<p>Even the most <strong>tenacious</strong> advocates for gun ownership must admit some of the dangers that firearms present.</p>",
+          "example": "Even the most tenacious advocates for gun ownership must admit some of the dangers that firearms present."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/tenacious"
+    },
+    {
+      "word": "unequivocal",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion</p>",
+          "definition": "adjective: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion",
+          "exampleHtml": "<p>The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was careful to make his position completely <strong>unequivocal</strong>.</p>",
+          "example": "The President's first statement on the subject was vague and open to competing interpretations, so when he spoke to Congress about the same subject later, he was careful to make his position completely unequivocal."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/unequivocal"
+    },
+    {
+      "word": "jubilant",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> full of high-spirited delight because of triumph or success</p>",
+          "definition": "adjective: full of high-spirited delight because of triumph or success",
+          "exampleHtml": "<p>My hardwork paid off, and I was <strong>jubilant</strong> to receive a perfect score on the GRE.</p>",
+          "example": "My hardwork paid off, and I was jubilant to receive a perfect score on the GRE."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/jubilant"
+    },
+    {
+      "word": "abstain",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> choose not to consume or take part in (particularly something enjoyable)</p>",
+          "definition": "verb: choose not to consume or take part in (particularly something enjoyable)",
+          "exampleHtml": "<p>Considered a health nut, Jessica <strong>abstained</strong> from anything containing sugar--even chocolate.</p>",
+          "example": "Considered a health nut, Jessica abstained from anything containing sugar--even chocolate."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/abstain"
+    },
+    {
+      "word": "Magoosh Free Trial",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> A sample of lesson videos and practice questions to see if Magoosh is right for you.  Learn more at http://gre.magoosh.com</p>",
+          "definition": "noun: A sample of lesson videos and practice questions to see if Magoosh is right for you.  Learn more at http://gre.magoosh.com",
+          "exampleHtml": "<p>Rachel tried the <strong>Magoosh free trial</strong> to determine if the premium Magoosh service was worth purchasing.</p>",
+          "example": "Rachel tried the Magoosh free trial to determine if the premium Magoosh service was worth purchasing."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/magoosh-free-trial"
+    },
+    {
+      "word": "staunch",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> firm and dependable especially in loyalty</p>",
+          "definition": "adjective: firm and dependable especially in loyalty",
+          "exampleHtml": "<p>No longer a <strong>staunch</strong> supporter of the movement, Todd now will openly question whether its goals are worthwhile.</p>",
+          "example": "No longer a staunch supporter of the movement, Todd now will openly question whether its goals are worthwhile."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/staunch"
+    },
+    {
+      "word": "delineate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> describe in detail</p>",
+          "definition": "verb: describe in detail",
+          "exampleHtml": "<p>After a brief summary of proper swimming technique, the coach <strong>delineated</strong> the specifics of each stroke, spending 30 minutes alone on the backstroke.</p>",
+          "example": "After a brief summary of proper swimming technique, the coach delineated the specifics of each stroke, spending 30 minutes alone on the backstroke."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/delineate"
+    },
+    {
+      "word": "ameliorate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> make something bad better</p>",
+          "definition": "verb: make something bad better",
+          "exampleHtml": "<p>\"Three Cups of Tea\" tells the story of western man who hopes to <strong>ameliorate</strong> poverty and the lack of education in Afghanistan.</p>",
+          "example": "\"Three Cups of Tea\" tells the story of western man who hopes to ameliorate poverty and the lack of education in Afghanistan."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/ameliorate"
+    },
+    {
+      "word": "jingoism",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> fanatical patriotism</p>",
+          "definition": "noun: fanatical patriotism",
+          "exampleHtml": "<p>North Korea maintains intense control over its population through a combination of <strong>jingoism</strong> and cult of personality.</p>",
+          "example": "North Korea maintains intense control over its population through a combination of jingoism and cult of personality."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/jingoism"
+    },
+    {
+      "word": "disaffected",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> discontented as toward authority</p>",
+          "definition": "adjective: discontented as toward authority",
+          "exampleHtml": "<p>After watching his superior take rations from the soldiers, he quickly became <strong>disaffected</strong> and rebelled.</p>",
+          "example": "After watching his superior take rations from the soldiers, he quickly became disaffected and rebelled."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/disaffected"
+    },
+    {
+      "word": "belligerent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> characteristic of one eager to fight</p>",
+          "definition": "adjective: characteristic of one eager to fight",
+          "exampleHtml": "<p>Tom said that he was arguing the matter purely for philosophical reasons, but his <strong>belligerent</strong> tone indicated an underlying anger about the issue.</p>",
+          "example": "Tom said that he was arguing the matter purely for philosophical reasons, but his belligerent tone indicated an underlying anger about the issue."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/belligerent"
+    },
+    {
+      "word": "vehement",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by extreme intensity of emotions or convictions</p>",
+          "definition": "adjective: marked by extreme intensity of emotions or convictions",
+          "exampleHtml": "<p>While the other employees responded to the bad news in a measured way, Andrew responded in a <strong>vehement</strong> manner, tipping over his desk and shouting at the top of his lungs.</p>",
+          "example": "While the other employees responded to the bad news in a measured way, Andrew responded in a vehement manner, tipping over his desk and shouting at the top of his lungs."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/vehement"
+    },
+    {
+      "word": "derive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> come from; be connected by a relationship of blood, for example</p>",
+          "definition": "verb: come from; be connected by a relationship of blood, for example",
+          "exampleHtml": "<p>Many words in the English language are <strong>derived</strong> from Latin, including the word \"<strong>derive</strong>.\"</p>",
+          "example": "Many words in the English language are derived from Latin, including the word \"derive.\""
+        },
+        {
+          "definitionHtml": "<p><strong>verb:</strong> reason by deduction; establish by deduction</p>",
+          "definition": "verb: reason by deduction; establish by deduction",
+          "exampleHtml": "<p>From the multiple set of footprints in the living room, the investigator <strong>derived</strong> an important clue: Sheila was not alone in the room at the time of the murder.</p>",
+          "example": "From the multiple set of footprints in the living room, the investigator derived an important clue: Sheila was not alone in the room at the time of the murder."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/derive"
+    },
+    {
+      "word": "avaricious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> excessively greedy</p>",
+          "definition": "adjective: excessively greedy",
+          "exampleHtml": "<p>Since <strong>avaricious</strong> desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church.</p>",
+          "example": "Since avaricious desire is similar to gluttony or lust--sins of excess--it was listed as one of the seven deadly sins by the Catholic church."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/avaricious"
+    },
+    {
+      "word": "rudimentary",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> being in the earliest stages of development; being or involving basic facts or principles</p>",
+          "definition": "adjective: being in the earliest stages of development; being or involving basic facts or principles",
+          "exampleHtml": "<p>I would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most <strong>rudimentary</strong> stages.</p>",
+          "example": "I would love to be able to present a fully polished proposal to the board, but right now, our plans for the product are still in the most rudimentary stages."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/rudimentary"
+    },
+    {
+      "word": "fallacious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> of a belief that is based on faulty reasoning</p>",
+          "definition": "adjective: of a belief that is based on faulty reasoning",
+          "exampleHtml": "<p>The widespread belief that Inuit have forty different words for \"snow\" has been considered <strong>fallacious</strong>, based on a single report by Anthropologist Franz Boas.</p>",
+          "example": "The widespread belief that Inuit have forty different words for \"snow\" has been considered fallacious, based on a single report by Anthropologist Franz Boas."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/fallacious"
+    },
+    {
+      "word": "elucidate",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> make clearer and easier to understand</p>",
+          "definition": "verb: make clearer and easier to understand",
+          "exampleHtml": "<p>Youtube is great place to learn just about anything--an expert <strong>elucidates</strong> finer points so that even a complete novice can learn.</p>",
+          "example": "Youtube is great place to learn just about anything--an expert elucidates finer points so that even a complete novice can learn."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/elucidate"
+    },
+    {
+      "word": "vilify",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> spread negative information about</p>",
+          "definition": "verb: spread negative information about",
+          "exampleHtml": "<p>Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to <strong>vilify</strong> Todd.</p>",
+          "example": "Todd was noble after the divorce, choosing to say only complimentary things about Barbara, but Barbara did not hesitate to vilify Todd."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/vilify"
+    },
+    {
+      "word": "circumvent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> cleverly find a way out of one's duties or obligations</p>",
+          "definition": "verb: cleverly find a way out of one's duties or obligations",
+          "exampleHtml": "<p>One way of <strong>circumventing</strong> the GRE is to apply to a grad school that does not require GRE scores.</p>",
+          "example": "One way of circumventing the GRE is to apply to a grad school that does not require GRE scores."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/circumvent"
+    },
+    {
+      "word": "tantamount",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> being essentially equal to something</p>",
+          "definition": "adjective: being essentially equal to something",
+          "exampleHtml": "<p>In many situations, remaining silent is <strong>tantamount</strong> to admitting guilt, so speak to prove your innocence.</p>",
+          "example": "In many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/tantamount"
+    },
+    {
+      "word": "ephemeral",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> lasting a very short time</p>",
+          "definition": "adjective: lasting a very short time",
+          "exampleHtml": "<p>The lifespan of a mayfly is <strong>ephemeral</strong>, lasting from a few hours to a couple of days.</p>",
+          "example": "The lifespan of a mayfly is ephemeral, lasting from a few hours to a couple of days."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/ephemeral"
+    },
+    {
+      "word": "negligible",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> so small as to be meaningless; insignificant</p>",
+          "definition": "adjective: so small as to be meaningless; insignificant",
+          "exampleHtml": "<p>The GRE tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a <strong>negligible</strong> impact on your score.</p>",
+          "example": "The GRE tests cumulative knowledge, so if you cram the night before it is, at best, likely to only have a negligible impact on your score."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/negligible"
+    },
+    {
+      "word": "itinerant",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> traveling from place to place to work</p>",
+          "definition": "adjective: traveling from place to place to work",
+          "exampleHtml": "<p>Doctors used to be <strong>itinerant</strong>, traveling between patients' homes.</p>",
+          "example": "Doctors used to be itinerant, traveling between patients' homes."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/itinerant"
+    },
+    {
+      "word": "precocious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)</p>",
+          "definition": "adjective: characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude)",
+          "exampleHtml": "<p>Though only seven years old, she was a <strong>precocious</strong> chess prodigy, able to beat players twice her age.</p>",
+          "example": "Though only seven years old, she was a precocious chess prodigy, able to beat players twice her age."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/precocious"
+    },
+    {
+      "word": "refractory",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> stubbornly resistant to authority or control</p>",
+          "definition": "adjective: stubbornly resistant to authority or control",
+          "exampleHtml": "<p>Used to studious high school students, Martha was unprepared for the <strong>refractory</strong> Kindergarteners who neither sat still nor listened to a single word she said.</p>",
+          "example": "Used to studious high school students, Martha was unprepared for the refractory Kindergarteners who neither sat still nor listened to a single word she said."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/refractory"
+    },
+    {
+      "word": "spurious",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> plausible but false</p>",
+          "definition": "adjective: plausible but false",
+          "exampleHtml": "<p>When listening to a politician speak, it is hard to distinguish the <strong>spurious</strong> claims from the authentic ones.</p>",
+          "example": "When listening to a politician speak, it is hard to distinguish the spurious claims from the authentic ones."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/spurious"
+    },
+    {
+      "word": "haughty",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> having or showing arrogant superiority to and disdain of those one views as unworthy</p>",
+          "definition": "adjective: having or showing arrogant superiority to and disdain of those one views as unworthy",
+          "exampleHtml": "<p>The <strong>haughty</strong> manager didn't believe that any of his subordinates could ever have an insight as brilliant as his own.</p>",
+          "example": "The haughty manager didn't believe that any of his subordinates could ever have an insight as brilliant as his own."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/haughty"
+    },
+    {
+      "word": "contrive",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>verb:</strong> to pull off a plan or scheme, usually through skill or trickery</p>",
+          "definition": "verb: to pull off a plan or scheme, usually through skill or trickery",
+          "exampleHtml": "<p>Despite a low GPA, he <strong>contrived</strong> to get into college, going so far as to write his own glowing letters of recommendation.</p>",
+          "example": "Despite a low GPA, he contrived to get into college, going so far as to write his own glowing letters of recommendation."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/contrive"
+    },
+    {
+      "word": "panache",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> distinctive and showy elegance</p>",
+          "definition": "noun: distinctive and showy elegance",
+          "exampleHtml": "<p>Jim, with his typical <strong>panache</strong>, came to the wedding reception with a top hat and cane.</p>",
+          "example": "Jim, with his typical panache, came to the wedding reception with a top hat and cane."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/panache"
+    },
+    {
+      "word": "forlorn",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> marked by or showing hopelessness</p>",
+          "definition": "adjective: marked by or showing hopelessness",
+          "exampleHtml": "<p>After her third pet dog died, Marcia was simply <strong>forlorn</strong>: this time even the possibility of buying a new dog no longer held any joy.</p>",
+          "example": "After her third pet dog died, Marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/forlorn"
+    },
+    {
+      "word": "eminent",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> standing above others in quality or position</p>",
+          "definition": "adjective: standing above others in quality or position",
+          "exampleHtml": "<p>Shakespeare is an <strong>eminent</strong> author in the English language, but I find his writing uninteresting and melodramatic.</p>",
+          "example": "Shakespeare is an eminent author in the English language, but I find his writing uninteresting and melodramatic."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/eminent"
+    },
+    {
+      "word": "travesty",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>noun:</strong> an absurd presentation of something; a mockery</p>",
+          "definition": "noun: an absurd presentation of something; a mockery",
+          "exampleHtml": "<p>What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced <strong>travesty</strong> of the form.</p>",
+          "example": "What I expected to be an intelligent, nuanced historical documentary turned out to be a poorly-produced travesty of the form."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/travesty"
+    },
+    {
+      "word": "treacherous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> tending to betray</p>",
+          "definition": "adjective: tending to betray",
+          "exampleHtml": "<p>Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his <strong>treacherous</strong> actions than for eliminating a criminal and murderer.</p>",
+          "example": "Even though Jesse James was an outlaw, his killer, Robert Ford, is remembered more for his treacherous actions than for eliminating a criminal and murderer."
+        },
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> dangerously unstable and unpredictable</p>",
+          "definition": "adjective: dangerously unstable and unpredictable",
+          "exampleHtml": "<p>The bridge built from twine and vine is <strong>treacherous</strong> to walk across, and so I think I will stay put right here.</p>",
+          "example": "The bridge built from twine and vine is treacherous to walk across, and so I think I will stay put right here."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/treacherous"
+    },
+    {
+      "word": "magnanimous",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> noble and generous in spirit, especially towards a rival or someone less powerful</p>",
+          "definition": "adjective: noble and generous in spirit, especially towards a rival or someone less powerful",
+          "exampleHtml": "<p>He was a great sportsman: in defeat he was complimentary and in victory he was <strong>magnanimous</strong>.</p>",
+          "example": "He was a great sportsman: in defeat he was complimentary and in victory he was magnanimous."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/magnanimous"
+    },
+    {
+      "word": "immutable",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> not able to be changed</p>",
+          "definition": "adjective: not able to be changed",
+          "exampleHtml": "<p>Taxes are one of the <strong>immutable</strong> laws of the land, so there is no use arguing about paying them.</p>",
+          "example": "Taxes are one of the immutable laws of the land, so there is no use arguing about paying them."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/immutable"
+    },
+    {
+      "word": "eclectic",
+      "senses": [
+        {
+          "definitionHtml": "<p><strong>adjective:</strong> comprised of a variety of styles</p>",
+          "definition": "adjective: comprised of a variety of styles",
+          "exampleHtml": "<p>Malala was known for her <strong>eclectic</strong> tastes in music, one moment dancing to disco the next \"air conducting\" along to Beethoven's 9th symphony.</p>",
+          "example": "Malala was known for her eclectic tastes in music, one moment dancing to disco the next \"air conducting\" along to Beethoven's 9th symphony."
+        }
+      ],
+      "url": "https://gre.magoosh.com/flashcards/vocabulary/common-words-3/eclectic"
+    }
+  ]
+}
